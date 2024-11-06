@@ -1,0 +1,64 @@
+{
+    "url": "https://www.snopes.com/fact-check/bob-beckel-julian-assange/",
+    "claim": "Hillary Clinton strategist Bob Beckel called for the assassination of Wikileaks founder Julian Assange.",
+    "rating": "Mixture",
+    "content": "Political pundit Bob Beckel called for the assassination of Julian Assange in December 2010.\nBeckel does not appear to be a Clinton strategist, and his comments were not made recently in response to the July 2016 DNC leaks.  \nOn 10 August 2016, amid escalating tensions between publisher Wikileaks and American political pundits, the former sent a tweet asserting that \"Hillary Clinton strategist Bob Beckel\" had called for the assassination of Wikileaks founder Julian Assange:\nHillary Clinton strategist Bob Beckel called for WikiLeaks editor Julian Assange to be  assassinated. #DNCLeak pic.twitter.com/9L2ixl24Er\n— WikiLeaks (@wikileaks) August 10, 2016\n\nMany social media users inferred that the referenced comments had been made recently, but they originated with something Beckel in the course of a Fox News Channel segment about WikiLeaks aired back in December 2010, during which Beckel suggested that \"special ops forces\" be used to kill Assange:\nA dead man can’t leak stuff. This guy’s a traitor, he’s treasonous, and he has broken every law of the United States. And I’m not for the death penalty, so ... there’s only one way to do it: illegally shoot the son of a bitch.\nThat remark, in the context of the Fox News Channel segment, can be viewed here:\n\n\nIt should be noted that Julian Assange is Australian, not American. As such, the legal definition of treason isn't precisely applicable to him:\nWhoever, owing allegiance to the United States, levies war against them or adheres to their enemies, giving them aid and comfort within the United States or elsewhere, is guilty of treason and shall suffer death, or shall be imprisoned not less than five years and fined under this title but not less than $10,000; and shall be incapable of holding any office under the United States.\n\nWere were unable to authenticate the assertion that Bob Beckel has been employed as a Clinton strategist at any point. Beckel worked in the U.S. Department of State during the Carter administration, served as the manager of Walter Mondale's 1984 presidential campaign, and founded a \"grass roots\" lobbying firm in 1984; since then he has worked as a left-leaning political analyst and pundit writing columns for USA Today, co-hosting The Five for the Fox News Channel, and most recently offering commentary on the 2016 presidential election for CNN. But we found no evidence indicating that he has ever served as a Hillary Clinton campaign strategist.\n",
+    "original_rationales": {
+        "main_rationale": "Beckel does not appear to be a Clinton strategist, and his comments were not made recently in response to the July 2016 DNC leaks.",
+        "additional_rationale1": "It should be noted that Julian Assange is Australian, not American.",
+        "additional_rationale2": "Were were unable to authenticate the assertion that Bob Beckel has been employed as a Clinton strategist at any point."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Mixture' rating is justified based on the assessment that while Bob Beckel did make comments suggesting the assassination of Julian Assange back in December 2010, he is not a current Clinton strategist as claimed. The confusion arose from a WikiLeaks tweet that mischaracterized Beckel's position. Additionally, Beckel's background and career history do not include any formal role as a Hillary Clinton campaign strategist.",
+        "detailed_reasons": {
+            "reason1": "Bob Beckel did make comments about using 'special ops forces' to kill Julian Assange in December 2010, supporting the claim partially. However, he is not a current Clinton strategist as implied, indicating a mix of truth and falsehood in the claim.",
+            "reason2": "The confusion was exacerbated by a tweet from WikiLeaks that misrepresented Beckel's comments as recent, leading to a misunderstanding regarding the timeline of the remarks. This mischaracterization contributed to the 'Mixture' rating.",
+            "reason3": "Investigation into Beckel's professional background revealed that he has never officially served as a Hillary Clinton campaign strategist, debunking the claim that linked him to the Clinton campaign. This inconsistency in the claim's portrayal of Beckel's role supports the 'Mixture' rating.",
+            "reason4": "Considering Julian Assange's nationality and the legal definition of treason pertaining to allegiance to the United States, Beckel's comments may not align perfectly with the accusation of treason against an American traitor, adding complexity and ambiguity to the overall claim."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 3,
+        "evidence1": [
+            "Hillary Clinton strategist Bob Beckel called for WikiLeaks editor Julian Assange to be  assassinated. #DNCLeak pic.twitter.com/9L2ixl24Er\n— WikiLeaks (@wikileaks) August 10, 2016",
+            [
+                "https://twitter.com/hashtag/DNCLeak?src=hash",
+                "https://t.co/9L2ixl24Er",
+                "https://twitter.com/wikileaks/status/763380671796678656"
+            ]
+        ],
+        "evidence2": [
+            "A dead man can’t leak stuff. This guy’s a traitor, he’s treasonous, and he has broken every law of the United States. And I’m not for the death penalty, so ... there’s only one way to do it: illegally shoot the son of a bitch.",
+            []
+        ],
+        "evidence3": [
+            "Whoever, owing allegiance to the United States, levies war against them or adheres to their enemies, giving them aid and comfort within the United States or elsewhere, is guilty of treason and shall suffer death, or shall be imprisoned not less than five years and fined under this title but not less than $10,000; and shall be incapable of holding any office under the United States.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale by confirming that Bob Beckel called for the assassination of Julian Assange, as stated in the claim. This clear connection between the evidence and the main rationale reinforces the fact that Beckel's comments were not recent and were indeed made about Julian Assange in the past."
+        },
+        {
+            "reason1, evidence1": "The evidence directly matches reason1 which explains that Bob Beckel did make comments about using 'special ops forces' to kill Julian Assange in December 2010, supporting the claim partially."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence provided is directly relevant to the additional rationale stating 'It should be noted that Julian Assange is Australian, not American.' The comment from Bob Beckel about illegally shooting Julian Assange because 'This guy’s a traitor, he’s treasonous, and he has broken every law of the United States' shows a misunderstanding of Assange's nationality and legal status."
+        },
+        {
+            "reason1, evidence2": "The evidence directly supports reason1 by confirming that Bob Beckel did make comments about using 'special ops forces' to kill Julian Assange in December 2010, aligning with the claim. This connection directly links the evidence to the rationale provided."
+        },
+        {
+            "additional_rationale1, evidence3": "The evidence directly supports the additional rationale that 'It should be noted that Julian Assange is Australian, not American.', as it clarifies that the legal definition of treason mentioned in the evidence is not precisely applicable to Assange as he is Australian and not American."
+        },
+        {
+            "reason4, evidence3": "The evidence directly supports reason4 from the rationale. The legal definition of treason mentioned in the evidence pertains to allegiance to the United States, highlighting the complexity and ambiguity in the claim due to Julian Assange's Australian nationality. Therefore, the evidence aligns closely with reason4, which questions the precise alignment of Beckel's comments with the accusation of treason against an American traitor."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/rImgsRg-a-8"
+        ]
+    }
+}

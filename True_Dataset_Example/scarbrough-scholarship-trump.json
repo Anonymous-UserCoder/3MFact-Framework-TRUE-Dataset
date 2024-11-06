@@ -1,0 +1,51 @@
+{
+    "url": "https://www.snopes.com/fact-check/scarbrough-scholarship-trump/",
+    "claim": "University of Alabama running back Bo Scarbrough lost his scholarship over an anti-Trump outburst.",
+    "rating": "False",
+    "content": "On 9 January 2018, the web site America's Last Line of Defense published an article reporting that University of Alabama running back Bo Scarbrough lost his scholarship over an anti-Trump outburst:\n\nWhen President Trump attended the NCAA national football championship game Monday he just wanted to see some football, but the players decided to bring politics to the game — especially Atlanta running back Bo Scarbrough, who won liberals’ hearts by acting like the trash he is.\nVideo that has gone viral among unpatriotic scumbags shows Scarbrough screaming “fuck Trump” as he walks with his team to the field. Other unidentified players joined in.\nWhile Scarbrough may have thought his outburst was funny, school administrators didn’t. According to University of Alabama president Mark Heller, “the decision was made to remove Mr. Scarborough from the team following his outburst, which does not represent the values of this institution.”\n\nThe background to this report was the 2018 College Football Playoff National Championship held in Atlanta on 8 January 2018, during which -- with President Trump in attendance -- No. 4 Alabama toppled No. 3 Georgia in a thrilling overtime win to clinch the national college football championship.\nThe event was somewhat marred by a controversial viral video clip recorded as Alabama Crimson Tide players were walking between the field and the locker room, during which a player said to be Alabama running back Bo Scarbrough was captured purportedly shouting \"F*ck Trump!\"  The audio from the clip was far from clear, however, and Scarborough maintained that he had actually yelled \"F*ck Georgia!\":\nAlabama RB Bo Scarbrough yells “F— Trump” before tonight’s title game. pic.twitter.com/RhuhRyNFHh\n— Sporting News (@sportingnews) January 9, 2018\n\nRegardless of what Bo Scarbrough may or may not have said during the referenced outburst, the University of Alabama has not announced any revocation of any scholarship Scarbrough might currently hold or his removal from the football team.  In fact, the president of the University of Alabama is Dr. Stuart R. Bell, not \"Mark Heller,\" as reported in the America's Last Line of Defense article.  Additionally, Scarbrough is reportedly planning to skip his senior year at Alabama to enter the NFL draft, in which case the penalties putatively aimed at him would have no effect anyway.\nAll of this misinformation is to be expected, as the sole source for this story is part of a network of fake news web sites that traffic in fabricated political clickbait, and the site carries a disclaimer stating that \"Everything on this website is fiction.\"",
+    "original_rationales": {
+        "main_rationale": "Regardless of what Bo Scarbrough may or may not have said during the referenced outburst, the University of Alabama has not announced any revocation of any scholarship Scarbrough might currently hold or his removal from the football team.",
+        "additional_rationale1": "The background to this report was the 2018 College Football Playoff National Championship held in Atlanta on 8 January 2018, during which -- with President Trump in attendance -- No. 4 Alabama toppled No. 3 Georgia in a thrilling overtime win to clinch the national college football championship.",
+        "additional_rationale2": "Additionally, Scarbrough is reportedly planning to skip his senior year at Alabama to enter the NFL draft, in which case the penalties putatively aimed at him would have no effect anyway."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that University of Alabama running back Bo Scarbrough lost his scholarship over an anti-Trump outburst is rated as 'False' because there is no evidence or official announcement from the University of Alabama regarding any scholarship revocation or removal from the football team. Additionally, the named University president is incorrect in the article, and Scarbrough is planning to enter the NFL draft, rendering any potential penalties moot. The source of the story is identified as a fake news website producing fictional content.",
+        "detailed_reasons": {
+            "reason1": "There is no formal statement or indication from the University of Alabama about any scholarship removal or dismissal from the football team regarding Bo Scarbrough, directly contradicting the claim in the article.",
+            "reason2": "The article misidentifies the University president as 'Mark Heller,' while the actual president is Dr. Stuart R. Bell, undermining the credibility of the source and the claim itself.",
+            "reason3": "Bo Scarbrough's intent to skip his senior year at Alabama to enter the NFL draft, as reported in the article, makes any purported punitive actions irrelevant and baseless, further discrediting the claim of scholarship loss.",
+            "reason4": "The article's source, 'America's Last Line of Defense,' is acknowledged as a fake news website that spreads fictional content for political clickbait purposes, casting serious doubt on the reliability and truthfulness of the claim about Scarbrough losing his scholarship."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "When President Trump attended the NCAA national football championship game Monday he just wanted to see some football, but the players decided to bring politics to the game — especially Atlanta running back Bo Scarbrough, who won liberals’ hearts by acting like the trash he is.\nVideo that has gone viral among unpatriotic scumbags shows Scarbrough screaming “fuck Trump” as he walks with his team to the field. Other unidentified players joined in.\nWhile Scarbrough may have thought his outburst was funny, school administrators didn’t. According to University of Alabama president Mark Heller, “the decision was made to remove Mr. Scarborough from the team following his outburst, which does not represent the values of this institution.”",
+            []
+        ],
+        "evidence2": [
+            "Alabama RB Bo Scarbrough yells “F— Trump” before tonight’s title game. pic.twitter.com/RhuhRyNFHh\n— Sporting News (@sportingnews) January 9, 2018",
+            [
+                "https://t.co/RhuhRyNFHh",
+                "https://twitter.com/sportingnews/status/950540110403121152?ref_src=twsrc%5Etfw"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "The evidence directly supports the additional rationale 1. The article mentions the background of the 2018 College Football Playoff National Championship, during which President Trump was in attendance. Bo Scarbrough's alleged outburst against Trump was said to occur during this event, aligning with the rationale provided about the context of the championship game and the presence of Trump."
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports reason 1 by contradicting the claim that Bo Scarbrough lost his scholarship due to an anti-Trump outburst. The article states that there is no formal statement from the University of Alabama regarding any scholarship removal or dismissal from the football team, which directly refutes the claim made in the original article."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence directly supports the additional rationale 1. The tweet mentioned in the evidence is referring to Bo Scarbrough yelling 'F--- Trump' during the title game, which aligns with the fact that the 2018 College Football Playoff National Championship took place with President Trump in attendance. This connection clearly supports the rationale that gives context to the incident during the game."
+        },
+        {
+            "reason1, evidence2": "The evidence directly supports reason 1 by contradicting the claim that Bo Scarbrough lost his scholarship due to an anti-Trump outburst. The tweet showing Scarbrough yelling 'F— Trump' at the football game does not indicate any scholarship removal or dismissal from the team, refuting the central claim of the article."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

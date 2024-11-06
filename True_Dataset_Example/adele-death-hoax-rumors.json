@@ -1,0 +1,24 @@
+{
+    "url": "https://www.snopes.com/fact-check/adele-death-hoax-rumors/",
+    "claim": "Singer Adele died in a car crash in March 2016.",
+    "rating": "False",
+    "content": "In February 2016, a fake news story claiming that singer Adele had died in a car crash started circulating on Facebook:\n \nWhile the story didn't get a lot of attention when it was originally posted, the rumor started pick up traction after it was posted in the comment section of Adele's YouTube video for the song \"Hello\". Various misinformed internet commentators (or trolls) posted about the death hoax, which led others to believe that the singer had actually passed away:\n \nHowever, there is no truth to any of these claims. Adele is not dead; while the singer has not commented specifically on her death hoax, she is still active on her social media accounts and talking about upcoming performances:\n \n",
+    "original_rationales": {
+        "additional_rationale2": "Various misinformed internet commentators (or trolls) posted about the death hoax, which led others to believe that the singer had actually passed away:"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that singer Adele died in a car crash in March 2016 is rated as False because the circulating fake news story was debunked, Adele remained active on social media, and there was no official confirmation or statement regarding her death despite the hoax spreading online.",
+        "detailed_reasons": {
+            "reason1": "The debunking of the fake news story circulating on Facebook clearly refutes the claim, indicating that there was no truth to the rumor of Adele's death.",
+            "reason2": "Adele's continued activity on social media and discussions about upcoming performances provide evidence of her being alive and active after the alleged incident, contradicting the claim of her death.",
+            "reason3": "The absence of any specific comments from Adele addressing the death hoax, combined with the lack of any official confirmation or credible sources reporting her death, supports the False rating by undermining the validity of the claim."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": []
+    }
+}

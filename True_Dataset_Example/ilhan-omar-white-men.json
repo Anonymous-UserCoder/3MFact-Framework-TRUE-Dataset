@@ -1,0 +1,38 @@
+{
+    "url": "https://www.snopes.com/fact-check/ilhan-omar-white-men/",
+    "claim": "Ilhan Omar once called for white men to be enslaved and put in chains due to their reluctance to convert to Islam.",
+    "rating": "False",
+    "content": "Minnesota Democrat Ilhan Omar has been the subject of widespread online rumor and misinformation, much of it driven by Islamophobic sentiment, since her successful 2016 campaign for a seat in the Minnesota House of Representatives.\nThese attacks continued two years later, during the 2018 election in the state's 5th Congressional District, which she won, thus becoming the first Somali-American and (along with Michigan's Rashida Tlaib) one of the two first Muslim women elected to the U.S. House of Representatives.\nIn November 2018, social media users shared an inflammatory quotation attributed to Omar, one that presented her as a Muslim extremist with a violent and tyrannical view of non-Muslims: \"I am America's hope and the president's nightmare. I think all white men should be put in chains as slaves because they will never submit to Islam\": \n\nThe first sentence included in the meme was authentic, but the contentious second one was no more than a malicious fabrication. Omar did once say \"I am America's hope and the president's nightmare,\" in reference to President Donald Trump, while discussing her own personal history as a female Muslim refugee during a 13 July episode of Comedy Central's The Daily Show.  During that program, host Trevor Noah asked the following:\n\nYour story is one of the most fascinating I have ever come across. To be in the position you're in is one that is already unique, but your story is even more unique. You are someone who is all too familiar with being a refugee, you're from Somalia, you're also a Muslim person, you're also a woman. You are everything that President Trump seems to be against, and you are in government. What's the plan?\nOmar responded by saying, \"I am America's hope and the president's nightmare\":\n\nHowever, we found no record of Omar's ever having called for white men to be bound in chains or enslaved for refusing to convert to Islam (or of her making any other remotely similar statement) -- not in the July 2017 Daily Show interview, or in the September 2017 Time magazine interview which was the source of the photograph used in the meme, or anywhere else.\nThe second quotation is no more or less than a malicious, Islamophobic fabrication which could stoke fear or anger against Omar and other Muslims in the United States.",
+    "original_rationales": {
+        "main_rationale": "However, we found no record of Omar's ever having called for white men to be bound in chains or enslaved for refusing to convert to Islam (or of her making any other remotely similar statement) -- not in the July 2017 Daily Show interview, or in the September 2017 Time magazine interview which was the source of the photograph used in the meme, or anywhere else.",
+        "additional_rationale1": "The second quotation is no more or less than a malicious, Islamophobic fabrication which could stoke fear or anger against Omar and other Muslims in the United States."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'False' rating for the claim that Ilhan Omar called for white men to be enslaved and put in chains is supported by the absence of evidence in the text backing up this specific statement. The article clarifies that while some parts of the quoted material were true, the incendiary remark about enslaving white men was entirely fabricated and malicious. There is no record or indication from interviews, such as those with Trevor Noah on The Daily Show or Time magazine, of Omar making such a statement. The text conveys that this quote was a deliberately falsified, Islamophobic narrative aimed at stirring negative sentiments against Omar and Muslims in the U.S.",
+        "detailed_reasons": {
+            "reason1": "The article explicitly states that there is no evidence of Ilhan Omar ever advocating for white men to be enslaved, as the inflammatory quote attributing such a statement to her was debunked as a complete fabrication. This absence of substantive proof directly refutes the claim's assertion.",
+            "reason2": "By detailing specific instances like the Comedy Central's The Daily Show interview where Omar's authentic quote was manipulated in the inflammatory fabricated statement, the text provides a clear contrast between what Omar actually said and the false narrative spread online. This discrepancy emphasizes the misleading nature of the claim.",
+            "reason3": "The article highlights the broader trend of misinformation and Islamophobic attacks targeting Ilhan Omar, suggesting a motive behind the spread of false narratives like the one in question. This context underscores the importance of critically evaluating such claims and considering the underlying biases at play, further strengthening the rationale for the 'False' rating."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "Your story is one of the most fascinating I have ever come across. To be in the position you're in is one that is already unique, but your story is even more unique. You are someone who is all too familiar with being a refugee, you're from Somalia, you're also a Muslim person, you're also a woman. You are everything that President Trump seems to be against, and you are in government. What's the plan?",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "The evidence provided, which includes a quote from a Comedy Central interview with Ilhan Omar, is directly relevant to the additional rationale provided. The quotation attributed to Omar in the interview, where she stated 'I am America's hope and the president's nightmare,' is in line with the fact that the second inflammatory quotation, which suggested enslaving white men, was a fabrication designed to spread fear and negativity towards Omar and Muslims. This clear connection aligns with the additional rationale that highlights the malicious nature of fabricated statements being used against Omar."
+        },
+        {
+            "<claim, evidence1>": "The evidence provided, a segment from an interview with Ilhan Omar on Comedy Central's The Daily Show, directly refutes the claim that she once called for white men to be enslaved and put in chains due to their reluctance to convert to Islam. The evidence clearly shows that the inflammatory quote attributed to Omar, advocating for such actions, was debunked as a complete fabrication. The authentic statement made by Omar during the show does not contain any such sentiment, showcasing a stark contrast between reality and the falsified narrative."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/dKhhMCyXfck?start=36"
+        ]
+    }
+}

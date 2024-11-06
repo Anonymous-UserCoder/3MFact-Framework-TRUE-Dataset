@@ -1,0 +1,37 @@
+{
+    "url": "https://www.snopes.com/fact-check/wsj-different-trump-headlines/",
+    "claim": "The Wall Street Journal ran Donald Trump stories with opposing headlines on the same day.",
+    "rating": "True",
+    "content": "On 1 September 2016, a photograph purportedly showing two editions of The Wall Street Journal with markedly different front page headlines regarding Republican presidential candidate Donald Trump's stance on immigration was circulated on social media:\nThis image was passed around on the Internet accompanied by the claim that the Wall Street Journal had deliberately published one headline, \"Trump Softens His Tone,\" in a pro-Trump market area in an attempt to sway readers away from the the GOP nominee, and the other headline, \"Trump Talks Tough on Wall,\" in a non-Trump market area to bolster support for Democratic presidential nominee Hillary Clinton.\nHowever, these opposing headline editions were not distributed to different political or geographic markets, nor were they intended to influence voters.\nThis picture shows two editions of the Wall Street Journal published at different times of the day. The paper on the left came off the press early in the day, while the paper on the right was produced later in the day. Print newspapers sometimes undergo revisions throughout their daily runs and typically employ marks to distinguish the various editions — in this case the differing WSJ editions are distinguishable by the number of stars displayed in the masthead:\n\nColleen Schwartz, the Vice President of Communications at The Wall Street Journal, confirmed to us that these editions were printed at different times, not in different markets. The edition on the left was published after Trump met with Mexican president Enrique Peña Nieto early in the day (and referenced the seemingly cooperative tone of their discussion), and the edition on the right was published after Trump delivered a speech on immigration later in the day (and referenced Trump's reasserting his stance that he would force Mexico to pay for the building of a wall along the U.S.-Mexico border):\nYes, the images represent two different editions, published at different times, and the headlines represent the news at the time of publication — before and after his speech.",
+    "original_rationales": {
+        "main_rationale": "Yes, the images represent two different editions, published at different times, and the headlines represent the news at the time of publication — before and after his speech.",
+        "additional_rationale1": "Colleen Schwartz, the Vice President of Communications at The Wall Street Journal, confirmed to us that these editions were printed at different times, not in different markets.",
+        "additional_rationale2": "The edition on the left was published after Trump met with Mexican president Enrique Peña Nieto early in the day (and referenced the seemingly cooperative tone of their discussion), and the edition on the right was published after Trump delivered a speech on immigration later in the day (and referenced Trump's reasserting his stance that he would force Mexico to pay for the building of a wall along the U.S.-Mexico border):"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'True' rating for the claim that The Wall Street Journal ran Donald Trump stories with opposing headlines on the same day is based on the fact that the two different headlines were from separate editions printed at different times within the same day, rather than being intended for distinct markets or with the purpose of influencing voters. The headlines accurately represented the evolving news corresponding to Trump's activities and statements throughout that particular day.",
+        "detailed_reasons": {
+            "reason1": "The rating is supported by the confirmation from the Vice President of Communications at The Wall Street Journal that the editions were printed at different times and not for different markets, clarifying that the contrasting headlines were a result of time-sensitive updates rather than intentional political bias or manipulation.",
+            "reason2": "The rationale is underpinned by the explanation in the paragraphs that the variation in headlines was due to the chronological sequence of events related to Donald Trump's activities, specifically his meetings and speeches, illustrating a logical and practical reason for the differing reportage.",
+            "reason3": "Furthermore, the text emphasizes that print newspapers commonly go through revisions and updates during the day, as supported by the mention of distinguishable marks on editions, reinforcing the authenticity of the multiple headlines as part of the natural progression of news coverage rather than a deliberate attempt to sway opinions."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "Yes, the images represent two different editions, published at different times, and the headlines represent the news at the time of publication — before and after his speech.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence provided directly supports the main rationale by confirming that the images represent two different editions of The Wall Street Journal, published at different times, and that the headlines reflect the news at the time of publication, which aligns with the explanation that the editions were not distributed to different markets but were produced at different times."
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports reason1 by confirming that the two different editions with opposing headlines were indeed published at different times, aligning with the Vice President of Communications at The Wall Street Journal's clarification that the contrasting headlines were due to time-sensitive updates and not intentional bias or manipulation."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

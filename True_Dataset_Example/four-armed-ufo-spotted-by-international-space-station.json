@@ -1,0 +1,48 @@
+{
+    "url": "https://www.snopes.com/fact-check/four-armed-ufo-spotted-by-international-space-station/",
+    "claim": "A four-pronged alien space craft was spotted by the International Space Station, but NASA is covering it up.",
+    "rating": "Unproven",
+    "content": "On 20 October 2016, a video appeared on YouTube with a claim that it was video from the International Space Station showing a \"strange,\" four-armed craft.\nThe video is extremely grainy, and nothing about it offers any way to ascertain the location, time or date it was spotted, or by whom. The YouTube page that originally up this video is populated with grainy, vague videos that are supposedly space phenomena, like a gun on Mars, or buildings on the moon's surface.\nThe post, though dubious in its origin, was picked up by conspiracy theory blogs like Disclose.tv:\nCommenting on this latest video UFO blogger, Scott C. Waring noted on his UFO Sightings Daily blog that the alien ship has a huge main body with four individual prongs which look like arms.\n“This UFO was spotted by UFO researcher Streetcap1 of YouTube, ” Waring wrote. “The video shows a long-armed UFO in the distance.\"\nAccording to the prolific alien hunter, the video also shows that our own sunlight reflects from the body and arms of the UFO, causing it to glisten which proves the authenticity of the video. The reflective properties of the mysterious object confirm its existence, and the object was seen for only a few seconds before NASA's infamous blue screen appeared.\n“I feel that the public is trusting NASA less and less when it comes to revealing life on other planets, ” Waring said. “Their true goal seems to be to gather important intelligence, and drip feeds the public enough to satisfy their curiosity.”\nOther UFO and alien enthusiasts noticed that there was a similarity between this \"four armed UFO\" and a UFO that has in the past been sighted, multiple times, flying past the sun on NASA SOHO images.\n(SOHO is short for the Solar and Heliospheric Observatory spacecraft, tasked by the National Aeronautics and Space Administration with studying the sun.)\nWhile the video shows almost nothing except a blurred image followed by a blue screen — all of which could have easily been created with a toy and rudimentary video-making skills — dubious blogs and conspiracy-minded people have circulated the story along with the claim that this object has been seen before, but NASA is trying hide it:\nSOHO cameras captured similar flybys in 2011, 2012, and 2016... Our Sun appears to be a popular stopover for interstellar crafts, including cruiseships, battleships, and expeditionary fleets, passing through our solar neighborhood.\nIf the object has appeared before, and if there are alien spacecraft using the sun as an interstellar freeway overpass, it seems unlikely that anyone would be able to cover it up. It also defies reason that NASA's own equipment is picking up images of extraterrestrial spacecraft and distributing those images on a platform that the public is easily able to access — but that the agency is denying it.\nThe video can be seen here:\n",
+    "original_rationales": {
+        "main_rationale": "If the object has appeared before, and if there are alien spacecraft using the sun as an interstellar freeway overpass, it seems unlikely that anyone would be able to cover it up.",
+        "additional_rationale1": "It also defies reason that NASA's own equipment is picking up images of extraterrestrial spacecraft and distributing those images on a platform that the public is easily able to access — but that the agency is denying it."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Unproven' rating is supported by the lack of verifiable evidence surrounding the alleged alien spacecraft sighting near the International Space Station. The video in question is blurry and lacks critical details like location, time, or sources, making it difficult to confirm the authenticity of the claim. Additionally, the involvement of conspiracy theory blogs and the dubious nature of the originators further cast doubt on the credibility of the footage. The history of similar sightings mentioned does not definitively prove the current claim, especially as the sources are questionable and the evidence presented is inconclusive, leaving the veracity of the alien spacecraft sighting unverified.",
+        "detailed_reasons": {
+            "reason1": "The video providing evidence of the alleged alien spacecraft sighting lacks clarity and crucial identifying features such as location, time, or the identity of those who spotted it, undermining its credibility and making it difficult to independently verify.",
+            "reason2": "The involvement of conspiracy theory blogs and individuals like Scott C. Waring, known for promoting UFO-related content, in propagating and interpreting the video introduces bias and reduces the claim's reliability and factual basis.",
+            "reason3": "References to past alleged sightings near the sun captured by SOHO cameras do not definitively confirm the current claim, as the historical nature of these events and the questionable sources observing them raise doubts about the credibility and accuracy of the comparisons made."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Commenting on this latest video UFO blogger, Scott C. Waring noted on his UFO Sightings Daily blog that the alien ship has a huge main body with four individual prongs which look like arms.\n“This UFO was spotted by UFO researcher Streetcap1 of YouTube, ” Waring wrote. “The video shows a long-armed UFO in the distance.\"\nAccording to the prolific alien hunter, the video also shows that our own sunlight reflects from the body and arms of the UFO, causing it to glisten which proves the authenticity of the video. The reflective properties of the mysterious object confirm its existence, and the object was seen for only a few seconds before NASA's infamous blue screen appeared.\n“I feel that the public is trusting NASA less and less when it comes to revealing life on other planets, ” Waring said. “Their true goal seems to be to gather important intelligence, and drip feeds the public enough to satisfy their curiosity.”\nOther UFO and alien enthusiasts noticed that there was a similarity between this \"four armed UFO\" and a UFO that has in the past been sighted, multiple times, flying past the sun on NASA SOHO images.",
+            []
+        ],
+        "evidence2": [
+            "SOHO cameras captured similar flybys in 2011, 2012, and 2016... Our Sun appears to be a popular stopover for interstellar crafts, including cruiseships, battleships, and expeditionary fleets, passing through our solar neighborhood.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided in the fact-checking article. The rationale states that if the object has appeared before and if there are alien spacecraft using the sun as an interstellar freeway overpass, it seems unlikely that anyone would be able to cover it up. The evidence discusses sightings of a 'four-armed UFO' in the past, flying past the sun on NASA SOHO images, indicating previous appearances of similar objects. This strong connection implies that the evidence aligns closely with the main rationale."
+        },
+        {
+            "reason2,evidence1": "The evidence directly supports reason 2 by mentioning that UFO blogger Scott C. Waring, known for promoting UFO-related content, commented on the video claiming the authenticity of the alien ship spotted near the International Space Station. This connection aligns with reason 2, which points out the involvement of conspiracy theory blogs and individuals like Waring in propagating and interpreting such videos, thereby reducing the claim's reliability and factual basis."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence is directly relevant to the additional rationale provided. The claim discusses a four-pronged alien space craft being spotted by the International Space Station, while the evidence supports this by mentioning that SOHO cameras captured similar flybys in 2011, 2012, and 2016, indicating that similar objects have been observed passing through our solar neighborhood. This directly aligns with the rationale that it seems unlikely for NASA to cover up such sightings if they have occurred before and are observable through their equipment, which is publicly accessible."
+        },
+        {
+            "reason3, evidence2": "The evidence supports 'reason3'. The article mentions that SOHO cameras captured similar flybys in 2011, 2012, and 2016, suggesting that alien spacecraft have been previously seen near the sun. This aligns with 'reason3', which states that references to past alleged sightings near the sun captured by SOHO cameras do not definitively confirm the current claim. The evidence directly supports this rationale by providing instances where similar sightings have occurred, thereby reinforcing the skepticism around the current claim."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/R_9vB_oqXYM"
+        ]
+    }
+}

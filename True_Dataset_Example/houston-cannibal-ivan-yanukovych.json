@@ -1,0 +1,26 @@
+{
+    "url": "https://www.snopes.com/fact-check/houston-cannibal-ivan-yanukovych/",
+    "claim": "Houston police arrested a man who confessed to killing and eating almost 40 people.",
+    "rating": "False",
+    "content": "In the spring of 2019 we received multiple inquiries about the accuracy of a widely shared report that claimed police in Houston, Texas, had arrested a man who had confessed to killing and eating nearly 40 people.\nOn 12 February, the World News Daily Report website posted an article with the headline \"Cannibal Killer Slaughtered and Ate 23 Pizza Delivery Men, 6 Jehovah Witnesses, 2 Postmen in Past 7 Years,\" which stated that:\n\"Houston police have arrested a man believed to be behind the disappearance of no less than 31 persons this past decade.  Ivan Fedorovitch Yanukovych, 56, could be linked to a number of mysterious disappearances in the area believe officials. Yanukovych was interrogated by police after neighbors complained about him using a chainsaw late at night and reported the man being 'covered in blood.' When police arrived on the scene, Yanukovych was found butchering a dead body in his garage and preparing what police officers described as 'large quantities of ground meat' mixed in with an 'aromatic blend of spices.'\"\nThe article was a hoax. The website that published it, WorldNewsDailyReport.com, only posts fabricated content presented as satire, as the following disclaimer on the homepage states:\n\"World News Daily Report assumes all responsibility for the satirical nature of its articles and for the fictional nature of their content. All characters appearing in the articles in this website – even those based on real people – are entirely fictional and any resemblance between them and any person, living, dead or undead, is purely a miracle.\"\nThe identity of the man shown in a mugshot in the article is not clear, but it could not be someone arrested in 2019, since that particular photograph has been circulated online since at least as far back as 2009.\nThe man falsely identified as Houston Police Department Executive Assistant Chief \"Jeff Buchanan\" is in fact former Executive Assistant Chief George Buenik, shown during his appearance at a June 2016 press conference. As of May 2019, the current Executive Assistant Chief of Houston Police is Troy Finner.",
+    "original_rationales": {
+        "main_rationale": "The article was a hoax. The website that published it, WorldNewsDailyReport.com, only posts fabricated content presented as satire, as the following disclaimer on the homepage states",
+        "additional_rationale1": "The man falsely identified as Houston Police Department Executive Assistant Chief \"Jeff Buchanan\" is in fact former Executive Assistant Chief George Buenik, shown during his appearance at a June 2016 press conference.",
+        "additional_rationale2": "The identity of the man shown in a mugshot in the article is not clear, but it could not be someone arrested in 2019, since that particular photograph has been circulated online since at least as far back as 2009."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that Houston police arrested a man who confessed to killing and eating almost 40 people is rated as False due to the article revealing that the report was fabricated by a website known for publishing satirical content. The disclaimer on the website clearly states the satirical nature of its articles, disassociating them from reality. Moreover, the identity of the man in the mugshot referred to in the article predates the alleged arrest, indicating the falsehood of the claim. The information provided discredits the credibility of the report, leading to the False rating.",
+        "detailed_reasons": {
+            "reason1": "The content originates from a website, World News Daily Report, that openly admits to producing satirical and fictional content rather than factual news. This admission undermines the credibility of the report regarding the man's arrest for cannibalistic crimes.",
+            "reason2": "The disclaimer on the website explicitly declares the satirical nature of the articles, implying that any claims, such as the arrest of a cannibalistic killer in Houston, should not be interpreted as truthful events. This disclaimer serves as a direct contradiction to the factual accuracy of the claim.",
+            "reason3": "The misidentification of the man in the mugshot used in the article, who is not the claimed criminal but another individual with a different professional background, adds to the evidence refuting the claim's validity. This error further exposes the falsity and unreliable nature of the report."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": []
+    }
+}

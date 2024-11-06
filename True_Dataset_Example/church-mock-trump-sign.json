@@ -1,0 +1,41 @@
+{
+    "url": "https://www.snopes.com/fact-check/church-mock-trump-sign/",
+    "claim": "The Hampton United Methodist Church called Donald Trump a pervert, a con artist, and a fascist on their church sign.",
+    "rating": "False",
+    "content": "In January 2017, not long before the official inauguration of President-elect Donald Trump, an image purportedly showing a message on the sign for the Hampton United Methodist Church made the rounds on social media: \nA perv, a con artist, and a fascist walk into a bar. Bartender says, \"What'll it be, Mr. President-Elect?\"\nThis is not a real photograph showing a joke about Donald Trump written on a church sign. In fact, it doesn't even show a real church sign. The original image shows a sign outside Roosevelt Middle School in Oakland, California and can be glimpsed at the 42-second mark of the following video about the school's 2012 graduation:\n\nThis particular sign has been used in dozens of internet jokes, most likely because it is available as a sign template on Redkid.org:\n",
+    "original_rationales": {
+        "main_rationale": "This is not a real photograph showing a joke about Donald Trump written on a church sign.",
+        "additional_rationale1": "In fact, it doesn't even show a real church sign."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that the Hampton United Methodist Church called Donald Trump a pervert, a con artist, and a fascist on their church sign is rated as False because the image circulated does not show a real church sign but one from a middle school in California, indicating the joke was not made by the church. The sign template used for the joke is widely available online, suggesting it was not a genuine message displayed by the church.",
+        "detailed_reasons": {
+            "reason1": "The image in question does not actually depict a message from the Hampton United Methodist Church but rather originates from a middle school in California, indicating that the claim of the church making such derogatory remarks about Trump is false.",
+            "reason2": "The fact that the sign template used for the joke is readily available online and has been used in multiple internet jokes implies that the content was not specific to the church and undermines the authenticity of the claim against the church.",
+            "reason3": "Considering the widespread availability of the sign template and its usage in various contexts, it is evident that the disparaging message attributed to the church was not unique to or created by the Hampton United Methodist Church, thus refuting the idea that they labeled Trump in such a manner.",
+            "reason4": "The context provided in the paragraphs clarifies that the sign image was not a real church sign but a generic template, further invalidating the claim that the church labeled Trump in the stated manner. The evidence presented points towards the falsity of the claim rather than its accuracy."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "A perv, a con artist, and a fascist walk into a bar. Bartender says, \"What'll it be, Mr. President-Elect?\"",
+            [
+                "https://www.snopes.com/uploads/2017/01/church-sign.jpg"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale. The image of the supposed church sign, claiming that the Hampton United Methodist Church called Donald Trump a pervert, a con artist, and a fascist, is debunked by the provided evidence. The text on the sign in the evidence, 'A perv, a con artist, and a fascist walk into a bar. Bartender says, 'What'll it be, Mr. President-Elect?'', is the actual content that was circulating on social media, attributed to the Hampton United Methodist Church. Therefore, the evidence directly contradicts the false claim and explicitly supports the main rationale that demonstrates the image was not real."
+        },
+        {
+            "reason1, evidence1": "The evidence 'A perv, a con artist, and a fascist walk into a bar. Bartender says, \"What'll it be, Mr. President-Elect?\"' directly aligns with Reason 1, where it is stated that the image in question actually comes from a middle school in California and not the Hampton United Methodist Church, hence refuting the claim that the church made derogatory remarks about Trump."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/jrXhiZs3JWo"
+        ]
+    }
+}

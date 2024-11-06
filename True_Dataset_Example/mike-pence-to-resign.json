@@ -1,0 +1,47 @@
+{
+    "url": "https://www.snopes.com/fact-check/mike-pence-to-resign/",
+    "claim": "Vice President Mike Pence will resign on 1 January 2019 at the request of President Trump.",
+    "rating": "False",
+    "content": "On 26 December 2018, the website America's Last Line of Defense (LLOD) ran this \"breaking\" news item under the headline \"Mike Pence will Resign ‘At The Request of the President’\":\nAccording to our sources in Washington, President Trump will ask Vice President Mike Pence to resign his position as of the 1st of the year. An assistant to an aide to White House Director of Information and Propaganda, Art Tubolls, told our correspondent in the field:\n“President Trump says that Pence is the only ‘establishment Republican’ left on his staff, and that the departure of Pence officially drains the swamp, just like he promised. The Executive branch is now full of people the President trusts, not a bunch of crusty old politicians. Mike Pence did a great job, but if we’re going to take the rest of America by force after 2020, we’re gonna need someone in the VP job with a little more gusto. Someone like Donald Jr. or even Ivanka. The Senate is ours. We can break any rule we want and confirm any candidate we want. Why not make the White House all Trump?”\n\nFor all that Americans have grown accustomed to the abrupt comings and goings of White House officials under President Trump, however, this announcement rang false even to those who didn't make it past the headline to read the more ridiculous declarations in the body of the article. For the most part, Mike Pence is seen by the public as the ultimate Trump loyalist (never mind an anonymously sourced report in the New York Times to the effect that the president was privately questioning Pence's allegiance in November).\nAs for the rest of the story, it's true that in the event of the vice president's resignation Trump could appoint whomever he wants to the position, but it would require Congressional approval -- something Trump's children, should he appoint one of them, would be unlikely to get.\nWe note, too, that the quoted statement is attributed to Art Tubolls, who is described as an \"assistant to an aide to White House Director of Information and Propaganda.\" Neither the man nor the position exists. \"Art Tubolls\" is a fictional character that frequently appears in the pages of LLOD. In another recent article on the site, Tubolls was named as the funeral director handling the interment of the late Penny Marshall.\nLLOD is part of a network of websites that publish so-called \"satirical\" content calculated to incite partisan rage and garner advertising revenue. A disclaimer on the website warns users that everything published there is fictional:\nEverything on this website is fiction. It is not a lie and it is not fake news because it is not real. If you believe that it is real, you should have your head examined. Any similarities between this site’s pure fantasy and actual people, places, and events are purely coincidental and all images should be considered altered and satirical. See above if you’re still having an issue with that satire thing.\nNo such warning appears in social media posts that link to the site's content.",
+    "original_rationales": {
+        "main_rationale": "For all that Americans have grown accustomed to the abrupt comings and goings of White House officials under President Trump, however, this announcement rang false even to those who didn't make it past the headline to read the more ridiculous declarations in the body of the article.",
+        "additional_rationale1": "LLOD is part of a network of websites that publish so-called \"satirical\" content calculated to incite partisan rage and garner advertising revenue."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that Vice President Mike Pence will resign on 1 January 2019 at the request of President Trump is rated as 'False' due to the article's indication of fabricated sources, the satirical nature of the website reporting the news, lack of real factual basis, and the requirement of Congressional approval for the Vice President's replacement, making such a scenario highly unlikely.",
+        "detailed_reasons": {
+            "reason1": "The use of a fictional character, Art Tubolls, as the quoted source casts doubt on the credibility of the information provided, pointing to the lack of genuine sourcing and thus undermining the claim's veracity.",
+            "reason2": "The article reveals that the publication, America's Last Line of Defense, is part of a network generating satirical content explicitly designed for entertainment rather than factual reporting, implying that the news of Pence's resignation is likely a fabrication.",
+            "reason3": "The text clarifies that even if Pence were to resign, Trump's ability to freely appoint a family member as the replacement would be constrained by the need for Congressional approval, which decreases the plausibility of the claim.",
+            "reason4": "The disclaimer on the website highlighting the fictional nature of its content emphasizes the lack of truth in the reported news, suggesting that the entire premise of Pence's resignation is a work of fiction and not based on real events."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "According to our sources in Washington, President Trump will ask Vice President Mike Pence to resign his position as of the 1st of the year. An assistant to an aide to White House Director of Information and Propaganda, Art Tubolls, told our correspondent in the field:\n“President Trump says that Pence is the only ‘establishment Republican’ left on his staff, and that the departure of Pence officially drains the swamp, just like he promised. The Executive branch is now full of people the President trusts, not a bunch of crusty old politicians. Mike Pence did a great job, but if we’re going to take the rest of America by force after 2020, we’re gonna need someone in the VP job with a little more gusto. Someone like Donald Jr. or even Ivanka. The Senate is ours. We can break any rule we want and confirm any candidate we want. Why not make the White House all Trump?”",
+            []
+        ],
+        "evidence2": [
+            "Everything on this website is fiction. It is not a lie and it is not fake news because it is not real. If you believe that it is real, you should have your head examined. Any similarities between this site’s pure fantasy and actual people, places, and events are purely coincidental and all images should be considered altered and satirical. See above if you’re still having an issue with that satire thing.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "Irrelevant"
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports reason1 that questions the credibility of the information provided in the claim. The article mentions that the quoted source, Art Tubolls, is a fictional character, which undermines the veracity of the claim."
+        },
+        {
+            "main_rationale, evidence2": "The evidence provided in the article clearly supports the main rationale provided for debunking the claim that Vice President Mike Pence will resign on 1 January 2019 at the request of President Trump. The article explicitly states that the website publishing the news about Pence's resignation, LLOD, is known for publishing satirical content to incite partisan rage and generate revenue. This aligns perfectly with the main rationale that points out the unreliability of the source and the nature of the content as fictional, thereby discrediting the claim."
+        },
+        {
+            "reason2, evidence2": "The evidence directly supports 'reason2' from the 'Combined Claim and Rationale'. The content of the evidence clearly indicates that the website, America's Last Line of Defense, is known for generating satirical content explicitly for entertainment, aligning with the rationale that the news of Pence's resignation is likely a fabrication."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

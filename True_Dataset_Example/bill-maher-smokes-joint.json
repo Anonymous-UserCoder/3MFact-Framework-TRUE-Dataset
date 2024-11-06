@@ -1,0 +1,51 @@
+{
+    "url": "https://www.snopes.com/fact-check/bill-maher-smokes-joint/",
+    "claim": "Bill Maher smoked a joint during a live broadcast of 'Real Time with Bill Maher,' and the FCC imposed a hefty fine.",
+    "rating": "Mixture",
+    "content": "Maher maintained the joint (or blunt) was real.\nMaher was fined by the FCC.\nDuring 12 February 2016's episode of Real Time with Bill Maher, host Bill Maher produced and lit what appeared to be a joint as he launched into a talking point about the legality of marijuana.\nThe segment focused on the possibility of a repeal of medical or recreational marijuana laws. The light-up occurred at roughly the 5:58 mark (portions of the video contained profanity and drug references):\n \nSocial media users wondered whether Maher (who immediately began coughing before passing the joint to rapper and guest Killer Mike) legitimately smoked pot during his show. Maher addressed the questions via his Twitter account, stating that a 2010 segment involving Zach Galifianakis was staged, but this was legitimate:\nYup, that was real last night. And, I think, a first. (Zach's was fake but he paved the way!) America, fuck yeah!\n— Bill Maher (@billmaher) February 13, 2016\n\nOn 13 February 2016, the web site Satira Tribune claimed that Maher faced Federal Communications Commission fines of $1.7 million:\nFriday night’s episode of Real Time with Bill Maher ended with Maher lighting up a joint after a pro-marijuana statement. The FCC immediately fined him $1.7 million, the largest fine since Janet Jackson’s wardrobe malfunction during the Super Bowl halftime in 2004.\nThere was no truth to the second part of the rumor.  If the name Satira Tribune didn't tip readers off to its status as a fake news site, its tagline (\"satirical news for satirical folks\") provided all necessary information to dismiss the claim.\nAs to whether Maher truly lit up during Real Time, the item he lit and inhaled created a distinctly marijuana-like puff of smoke, and Maher himself stood by a claim that the joint was real. On several occasions the comic referenced possessing and using a medical marijuana card, often with the running joke that it was for a \"trick knee,\" \"bad back\" or \"whatever.\"\n",
+    "original_rationales": {
+        "main_rationale": "There was no truth to the second part of the rumor.",
+        "additional_rationale1": "Maher himself stood by a claim that the joint was real."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'Mixture' rating is attributed to conflicting information in the article. While Bill Maher claimed the joint was real, a satire website falsely reported FCC fines. Maher's actions on the show and his social media statement support the possibility of smoking a real joint, but the fake news about the FCC fine undermines the credibility of the claim, resulting in a mixed assessment.",
+        "detailed_reasons": {
+            "reason1": "Bill Maher's confirmation on social media and his history of discussing marijuana use provide supportive evidence for the claim that he smoked a joint on the show, aligning with the 'True' aspect of the claim.",
+            "reason2": "The satire website's false report of FCC fines contradicts the authenticity of the claim, introducing an element of falsehood and supporting the 'False' aspect of the claim.",
+            "reason3": "The lack of concrete evidence directly from the FCC or other reliable sources regarding the imposed fines creates uncertainty, justifying the 'Mixture' rating due to the presence of both supporting and refuting elements in the information presented.",
+            "reason4": "The context of Maher's actions and statements, together with the satire news's disclaimer, highlight the need for caution in accepting the entire claim at face value, reinforcing the mixed nature of the assessment."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Yup, that was real last night. And, I think, a first. (Zach's was fake but he paved the way!) America, fuck yeah!\n— Bill Maher (@billmaher) February 13, 2016",
+            [
+                "https://twitter.com/billmaher/status/698642157641535492"
+            ]
+        ],
+        "evidence2": [
+            "Friday night’s episode of Real Time with Bill Maher ended with Maher lighting up a joint after a pro-marijuana statement. The FCC immediately fined him $1.7 million, the largest fine since Janet Jackson’s wardrobe malfunction during the Super Bowl halftime in 2004.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence provided directly supports the main rationale which states 'There was no truth to the second part of the rumor.' Bill Maher's tweet confirms that the joint smoking incident was real and not the fake rumor about the FCC imposing a fine."
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports reason1 as it confirms Bill Maher's acknowledgment on social media, aligning with the rationale that his confirmation on social media provides supportive evidence for the claim that he smoked a joint on the show."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence presented directly supports the additional rationale that 'Maher himself stood by a claim that the joint was real.' The article explicitly mentions Maher maintaining that the joint was real and referencing possessing and using a medical marijuana card, aligning perfectly with the additional rationale provided."
+        },
+        {
+            "reason1, evidence2": "The evidence directly supports reason1 of the rationale. In the article, Bill Maher confirmed on social media that the joint he smoked during the broadcast of 'Real Time with Bill Maher' was real, aligning with the claim that he smoked a joint on the show and supporting the 'True' aspect of the claim."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/rEep5v_PKMA?rel=0"
+        ]
+    }
+}

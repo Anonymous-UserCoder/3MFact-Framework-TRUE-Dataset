@@ -1,0 +1,58 @@
+{
+    "url": "https://www.snopes.com/fact-check/virginia-police-child-shootout/",
+    "claim": "Police in Richmond, Virginia killed a young child during a shootout with two suspects.",
+    "rating": "False",
+    "content": "On 8 June 2017, \"prank\" web site React365.com published a story falsely reporting an infant's death during a police shootout:\nThere was a shootout today involving 2 suspects with felonious assault warrants. During the gunfire, apparently the cops bullet penetrated a 3-yr old infant playing outside. The cop has been put on administrative leave with no pay pending the investigation.\nThe story, which is little more than a paragraph without many details and an image, is completely false. The only thing that is authentic in this story is the image, which was taken from footage of a real shooting — the death of 35-year-old Antonio Zambrano-Montes at the hands of police in Pasco, Washington in February 2015.\nRichmond police confirmed that no such shooting took place. \nOn its front page, React365 invites users to \"prank\" their friends by entering titles and text for their \"stories\", while also allowing them to either upload their own pictures or search Google for an image to use in their posts. The site also advises users to \"make sure [pictures] are free of [sic] use\". A note at the top of the page states:\nThe authors of posts of bullying or that advocate acts of terrorism or violate public order are subject to prosecution.\nThe site also contains a disclaimer:\nThis website is an entertainment website, news are created by users. These are humourous news, fantasy, fictional, that should not be seriously taken or as a source of information.\nWe contacted React365 for comment regarding the use of the picture of the shooting. \nZambrano-Montes was shot and killed by three officers after allegedly throwing rocks at them. His death spurred both local protests and criticism of police in the United States by Mexican president Enrique Peña Nieto. Prosecutors in Franklin County announced in September 2015 that they would not seek charges against the officers.",
+    "original_rationales": {
+        "main_rationale": "The story, which is little more than a paragraph without many details and an image, is completely false.",
+        "additional_rationale1": "Richmond police confirmed that no such shooting took place.",
+        "additional_rationale2": "This website is an entertainment website, news are created by users. These are humourous news, fantasy, fictional, that should not be seriously taken or as a source of information."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'False' rating for the claim that police in Richmond, Virginia killed a young child during a shootout with two suspects is supported by the fact-checking analysis that revealed the story about the infant's death to be fabricated by a 'prank' website. The verification process conducted by Richmond police confirmed the non-existence of any such shootout. Additionally, the use of a real image from a past incident and the explicit disclaimers on the website emphasizing the fictional and entertainment nature of the content further solidify the misinformation behind the claim.",
+        "detailed_reasons": {
+            "reason1": "The claim was deemed false based on the fact-checking investigation that exposed the story as a fabrication by a site known for creating fictional and humorous content, highlighting the lack of credibility and truthfulness in the initial report.",
+            "reason2": "Verification by Richmond police directly refuted the claim by confirming that no such incident actually occurred, establishing the inaccuracy of the reported shootout involving the young child.",
+            "reason3": "The utilization of an authentic image from a prior unrelated shooting incident, the disclaimer emphasizing the entertainment nature of the content, and the website's encouragement for users to 'prank' their friends collectively contribute to the misrepresentation and discrediting of the claim, reinforcing its false nature.",
+            "reason4": "The description of the story as 'little more than a paragraph' lacking essential details, combined with the disclaimer warning users not to consider the content as a source of actual information, further supports the 'False' rating by highlighting the superficial and deceptive nature of the report."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 3,
+        "evidence1": [
+            "There was a shootout today involving 2 suspects with felonious assault warrants. During the gunfire, apparently the cops bullet penetrated a 3-yr old infant playing outside. The cop has been put on administrative leave with no pay pending the investigation.",
+            []
+        ],
+        "evidence2": [
+            "The authors of posts of bullying or that advocate acts of terrorism or violate public order are subject to prosecution.",
+            []
+        ],
+        "evidence3": [
+            "This website is an entertainment website, news are created by users. These are humourous news, fantasy, fictional, that should not be seriously taken or as a source of information.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence provided directly relates to the main rationale mentioned in the article. The claim states that the police in Richmond, Virginia killed a young child during a shootout with two suspects, which the article debunks as false. The evidence supports this by mentioning a shootout involving two suspects and a 3-year-old child being accidentally shot by a bullet, leading to the officer being put on administrative leave pending investigation. This aligns with the main rationale that the story is entirely false."
+        },
+        {
+            "reason3, evidence1": "The evidence is directly relevant to reason 3 as it correlates with the information presented in the rationale. The evidence mentions a shootout involving suspects, one of whom accidentally shooting a child, which aligns with the description in reason 3 about how an image from a previous shooting incident was used in a fabricated post. This direct correlation supports reason 3 in labeling the claim as false."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence directly supports the additional rationale that 'Richmond police confirmed that no such shooting took place.' The article explicitly states that the story published on React365.com about a child being killed in a police shootout in Richmond, Virginia is false, and Richmond police confirmed that no such shooting occurred. This clear contradiction between the false claim and the confirmation by the Richmond police aligns with the additional rationale provided."
+        },
+        {
+            "reason3, evidence2": "The evidence directly supports reason3 from the fact-checking rationale. The statement from the evidence about authors of posts advocating acts of terrorism or violating public order being subject to prosecution aligns closely with reason3, which highlights the misrepresentation and discrediting of the claim due to the use of an authentic image from an unrelated shooting incident, the disclaimer emphasizing the entertainment nature of the content, and the website's encouragement for users to 'prank' their friends, collectively contributing to the false nature of the claim."
+        },
+        {
+            "additional_rationale2, evidence3": "The evidence is directly relevant to additional_rationale2, which states that the website is an entertainment platform where news is created by users and should not be taken seriously as a source of information. The evidence from the article confirms this by explaining that React365.com is a 'prank' website where users can create fictional stories and upload images for entertainment purposes, aligning closely with the rationale that the news on this website is humorous, fantasy, and fictional in nature."
+        },
+        {
+            "reason3, evidence3": "The evidence directly supports 'reason3'. The article explicitly states that the website is an entertainment platform where news is created by users, emphasizing that the content is humorous, fictional, and not to be taken seriously. This aligns with 'reason3,' which highlights the misrepresentation and discrediting of the claim due to the site's nature of publishing fantasy and fictional content."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

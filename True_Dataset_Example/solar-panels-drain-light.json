@@ -1,0 +1,37 @@
+{
+    "url": "https://www.snopes.com/fact-check/solar-panels-drain-light/",
+    "claim": "David “Avocado” Wolfe once posted a meme describing solar power as non-renewable because the light solar panels absorb is lost forever.",
+    "rating": "True",
+    "content": "Longtime readers of this site are no doubt familiar with the wide breadth of spurious claims made by David “Avocado” Wolfe, a self-styled health guru who gained prominence as a pitchman for the NutriBullet blender. From his claim that putting cut onions in your socks at night would “detox” your body, to his belief that the oceans contain salt so as to prevent the water from levitating away into space, we would be hard-pressed to find an absurd statement attributed to him that would shock us.\nThe corollary to this reputation is that anyone can ascribe any crazy claim to such a person and it will sound plausible that the target made such a statement. It is for this reason we were asked to check on the authenticity a meme commonly attributed to Wolfe on Facebook, and which he himself  tweeted on 9 May 2016:\n\nThis was not Wolfe's first foray into heliophysics. He has long held that “chocolate lines up planetarily with the sun” and that chocolate is, in fact, “an octave of sun energy.”\nWolfe apparently later walked backed the solar energy-draining claim, asserting it “never even crossed my mind that folks would take the #SolarPower post LITERALLY” before bemoaning what he described as an uproar of the “Scientism clergy.”\nIn point of fact, the sun is constantly “draining” and would be doing so with or without the advent of solar power, humans, or even life itself. Every second, the sun converts 600 million tons of matter into neutrinos, solar radiation, and energy, and it has been doing so for the past 4.5 billion years. The sun has enough matter to continue operating in this fashion for the next 4.5 billion or so years as well, though it will gradually get hotter. On human timescales, this fits squarely within the definition of an inexhaustible source of energy.\nIf evolutionary history is any guide, humans will have become extinct long before the sun is exhausted, and our brief existence in this solar system will have had no discernible effect on the sun. If physics is any guide, the planet will be completely uninhabitable well before that event, as described at Universe Today:\nIn 3.5 billion years from now, the Sun will be 40% brighter than it is right now. This increase will cause the oceans to boil, the ice caps to permanently melt, and all water vapor in the atmosphere to be lost to space. Under these conditions, life as we know it will be unable to survive anywhere on the surface. In short, planet Earth will come to be another hot, dry Venus.",
+    "original_rationales": {
+        "main_rationale": "the sun is constantly “draining” and would be doing so with or without the advent of solar power, humans, or even life itself. Every second, the sun converts 600 million tons of matter into neutrinos, solar radiation, and energy, and it has been doing so for the past 4.5 billion years.",
+        "additional_rationale1": "The sun has enough matter to continue operating in this fashion for the next 4.5 billion or so years as well, though it will gradually get hotter.",
+        "additional_rationale2": "In 3.5 billion years from now, the Sun will be 40% brighter than it is right now. This increase will cause the oceans to boil, the ice caps to permanently melt, and all water vapor in the atmosphere to be lost to space. Under these conditions, life as we know it will be unable to survive anywhere on the surface."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that David “Avocado” Wolfe posted a meme describing solar power as non-renewable because the light solar panels absorb is lost forever is rated as 'True' due to the article providing evidence that solar power is actually renewable, supported by the perpetual process of energy generation by the sun. Despite Wolfe's initial statement, the article clarifies that the sun continuously generates energy through various processes, making it an everlasting source of energy that far exceeds human timescales. Furthermore, the article highlights that on a cosmic timescale, the sun's energy will outlast humanity and remains inexhaustible, ultimately refuting the notion of solar power being non-renewable.",
+        "detailed_reasons": {
+            "reason1": "The perpetual and ongoing nature of the sun's energy generation, converting matter into energy and radiation every second for billions of years, as described in the article, contradicts Wolfe's claim that the absorbed light is lost forever, supporting the 'True' rating by establishing solar power as renewable.",
+            "reason2": "The article emphasizes that the sun's ability to sustain its energy production for billions more years, despite getting hotter over time, positions it as an abundant and everlasting energy source, countering Wolfe's implication that solar power is not renewable.",
+            "reason3": "By projecting into the future, the article illustrates that the sun's energy will persist even as Earth faces extreme conditions, reinforcing the concept of solar energy as an enduring resource beyond human existence and contesting Wolfe's assertion about the non-renewable nature of solar power."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "In 3.5 billion years from now, the Sun will be 40% brighter than it is right now. This increase will cause the oceans to boil, the ice caps to permanently melt, and all water vapor in the atmosphere to be lost to space. Under these conditions, life as we know it will be unable to survive anywhere on the surface. In short, planet Earth will come to be another hot, dry Venus.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale2, evidence1": "The evidence directly supports the additional rationale 2 provided, which states that in 3.5 billion years from now, the Sun will be 40% brighter, causing catastrophic consequences for life on Earth. This aligns closely with the specific details mentioned in the evidence where it describes how the increase in solar brightness will lead to the boiling of oceans, melting of ice caps, and loss of water vapor, rendering the planet uninhabitable. Therefore, the evidence directly corresponds to the content of additional rationale 2."
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports reason 1 by stating that in 3.5 billion years, the Sun will be 40% brighter, leading to catastrophic changes on Earth. This aligns with the concept of the sun's perpetual energy generation, countering David Wolfe's claim that absorbed light is lost forever and confirming the 'True' rating by establishing solar power as renewable."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

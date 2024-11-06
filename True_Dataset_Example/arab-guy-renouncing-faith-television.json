@@ -1,0 +1,49 @@
+{
+    "url": "https://www.snopes.com/fact-check/arab-guy-renouncing-faith-television/",
+    "claim": "A video shows a man angrily renouncing his faith on Egyptian national television.",
+    "rating": "False",
+    "content": "On 3 July 2016, the YouTube channel NBT Films (Nothing But the Truth) shared a video purportedly showing an \"Arab guy\" angrily renouncing his faith on live television:\nRecently, an Arab TV station discussed the controversial book 'The People vs Muhammad'. The result was an explosive meltdown after one of the guests renounced his faith on national TV.\n\n\nNBT Films is a video outlet for J.K. Sheindlin, who wrote the book referenced above.  While the video purports to tell the \"black and white facts\" about someone renouncing his faith because of Sheindlin's book, the clip in reality does not capture an Arab's reaction to a controversial book, nor does it capture that person renouncing his faith on live television. Sheindlin added fabricated captions to the video (while pledging to tell \"nothing but the truth\") in order to generate buzz for his book The People vs Muhammad.\nThis footage is dated 2 July 2013, when Egyptian president Mohamed Morsi rejected the military's ultimatum to leave office. Opposition activist Ihab al-Khouli, the \"Arab guy\" in the video displayed above, was reacting to Morsi's speech:\nOpposition activist Ihab Al-Khouli: This \"former\" president is addicted to his throne. This man is a liar and a deceiver. The Muslim Brotherhood does not...\nGets worked up and chokes\nTV host: Relax, have some water... Calm down, Ihab.\nAl-Khouli continues to shout\nIhab Al-Khouli: He doesn’t know that when he goes to meet the Lord, he will not see Muhammad Badi' or Kheirat Al-Shater next to him. He will be buried in a space of one square meter. More than 33 million people have taken to the streets, but they don't see them. They are blind. Don't they know what has happened to this country because of them? They dare to talk about foreign and domestic conspiracies?! Morsi sent letter to Peres and to Obama. He is asking for the Americans' protection.\nThe president challenges his own people. He is pitting his supporters against us. He wants to fight. All Egyptian blood is sacred. I swear to you that I won't go home before Morsi is gone. All the patriotic people have taken to the streets. We could not have convinced all these people to take to the streets if not for all the things that Morsi did.\n \nFull translations for the video can be found online. The original video, with its original captions, can be viewed below:\n",
+    "original_rationales": {
+        "main_rationale": "While the video purports to tell the \"black and white facts\" about someone renouncing his faith because of Sheindlin's book, the clip in reality does not capture an Arab's reaction to a controversial book, nor does it capture that person renouncing his faith on live television.",
+        "additional_rationale1": "Sheindlin added fabricated captions to the video (while pledging to tell \"nothing but the truth\") in order to generate buzz for his book The People vs Muhammad."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'False' rating is justified because the video, although claimed to show an Arab man renouncing his faith on live TV, actually captures a reaction to political events by an opposition activist. The man in the video was not renouncing his faith but rather criticizing the then-president of Egypt. The misleading captions added to the video were aimed at promoting a book and did not accurately represent the content. Therefore, the video does not depict what was claimed, leading to the 'False' rating.",
+        "detailed_reasons": {
+            "reason1": "The video does not show an Arab man renouncing his faith on national television as claimed, but instead captures opposition activist Ihab Al-Khouli criticizing Egyptian President Mohamed Morsi. This key discrepancy between what was asserted by the video and the actual content supports the 'False' rating.",
+            "reason2": "J.K. Sheindlin, the individual associated with the video, admitted to adding fabricated captions aiming to create interest in his book, 'The People vs Muhammad'. This admission of manipulative editing practices further confirms the video's lack of authenticity in depicting religious renouncement, justifying the 'False' rating based on misleading alterations.",
+            "reason3": "The video clip is contextualized within political events related to Egyptian President Mohamed Morsi's actions, highlighting that the man in the video was reacting to Morsi's speech and expressing political dissent, not renouncing his faith. This contextual evidence refutes the claim made about the video, corroborating the 'False' rating due to the misrepresentation of the content."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Recently, an Arab TV station discussed the controversial book 'The People vs Muhammad'. The result was an explosive meltdown after one of the guests renounced his faith on national TV.",
+            []
+        ],
+        "evidence2": [
+            "Opposition activist Ihab Al-Khouli: This \"former\" president is addicted to his throne. This man is a liar and a deceiver. The Muslim Brotherhood does not...\nGets worked up and chokes\nTV host: Relax, have some water... Calm down, Ihab.\nAl-Khouli continues to shout\nIhab Al-Khouli: He doesn’t know that when he goes to meet the Lord, he will not see Muhammad Badi' or Kheirat Al-Shater next to him. He will be buried in a space of one square meter. More than 33 million people have taken to the streets, but they don't see them. They are blind. Don't they know what has happened to this country because of them? They dare to talk about foreign and domestic conspiracies?! Morsi sent letter to Peres and to Obama. He is asking for the Americans' protection.\nThe president challenges his own people. He is pitting his supporters against us. He wants to fight. All Egyptian blood is sacred. I swear to you that I won't go home before Morsi is gone. All the patriotic people have taken to the streets. We could not have convinced all these people to take to the streets if not for all the things that Morsi did.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "The evidence is directly relevant to the additional rationale 1 provided in the fact-checking article. The article mentions that Sheindlin added fabricated captions to the video to generate buzz for his book The People vs Muhammad. The evidence of an Arab TV station discussing the controversial book 'The People vs Muhammad' and a guest renouncing his faith on national TV aligns closely with this rationale, as it confirms the presence of discussions around the book that could have led to fabricated captions to draw attention to it."
+        },
+        {
+            "reason2, evidence1": "The provided evidence directly relates to the second rationale. The evidence highlights that J.K. Sheindlin, the individual behind the video, admitted to adding fabricated captions to generate interest in his book 'The People vs Muhammad.' This aligns with the rationale that emphasizes the misleading nature of the video due to manipulative editing practices, thereby supporting the 'False' rating justified by the misrepresented content."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence provided is directly relevant to the additional rationale stating that Sheindlin added fabricated captions to the video to generate buzz for his book The People vs Muhammad. The evidence describes a situation where the video in question involved fabricated content by Sheindlin. Specifically, the video did not capture an Arab man renouncing his faith as claimed but rather showed opposition activist Ihab Al-Khouli reacting to political events involving the Egyptian president Mohamed Morsi. This direct connection supports the claim made in the additional rationale."
+        },
+        {
+            "reason1, evidence2": "The evidence directly supports reason1 by showing that the video captures opposition activist Ihab Al-Khouli criticizing Egyptian President Mohamed Morsi, which is contrary to the claim suggesting that the man renounced his faith on national television. This alignment with the rationale demonstrates that the evidence is relevant to debunking the false claim."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/v5foN-2ucZc",
+            "https://www.youtube.com/embed/0iy_Z-t-d3c"
+        ]
+    }
+}

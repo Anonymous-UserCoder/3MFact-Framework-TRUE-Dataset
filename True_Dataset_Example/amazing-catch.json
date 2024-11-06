@@ -1,0 +1,28 @@
+{
+    "url": "https://www.snopes.com/fact-check/amazing-catch/",
+    "claim": "A video clip captured a ball girl making an outstanding catch at a major league baseball game.",
+    "rating": "True",
+    "content": "Unlike a famous 2008 video clip that purportedly showed a ball girl making an amazing fence-climbing catch at a minor league baseball game (but was actually staged for a Gatorade commercial), this time we have the real thing to offer: a ball girl who made snazzy leaping catch of a line drive off the bat of Matt Kemp during a Major League Baseball (MLB) game between the Philadelphia Phillies and the San Diego Padres at Petco Park on 9 August 2015, snaring the ball just before it headed into the stands and quickly handing it off to a nearby fan:\n\nAccording to MLB: \"A ball girl totally stole the show at Petco Park. On a Matt Kemp foul, she leaped and caught the ball before it could go into the stands -- casually making the grab and then looking like it was no big deal. She received a well-deserved standing ovation and 'Play of the Day' honors from the broadcast team.\"",
+    "original_rationales": {
+        "main_rationale": "Unlike a famous 2008 video clip that purportedly showed a ball girl making an amazing fence-climbing catch at a minor league baseball game (but was actually staged for a Gatorade commercial), this time we have the real thing to offer: a ball girl who made snazzy leaping catch of a line drive off the bat of Matt Kemp during a Major League Baseball (MLB) game between the Philadelphia Phillies and the San Diego Padres at Petco Park on 9 August 2015, snaring the ball just before it headed into the stands and quickly handing it off to a nearby fan:",
+        "addtional_rationale1": "According to MLB: \"A ball girl totally stole the show at Petco Park. On a Matt Kemp foul, she leaped and caught the ball before it could go into the stands -- casually making the grab and then looking like it was no big deal. She received a well-deserved standing ovation and 'Play of the Day' honors from the broadcast team.\""
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim regarding a ball girl making an outstanding catch at a major league baseball game is rated as 'True' based on the evidence of a genuine catch made by a ball girl during a Major League Baseball game at Petco Park. This evidence contrasts with a previously staged video clip and is supported by descriptions from MLB and the broadcast team, confirming the authenticity of the catch.",
+        "detailed_reasons": {
+            "reason1": "The rating of 'True' is supported by the distinction made between a staged 2008 video clip falsely depicting a ball girl's catch and the authentic catch described in the analyzed paragraph, emphasizing the real nature of the event in 2015.",
+            "reason2": "MLB's statement praising the ball girl for her exceptional catch, the broadcast team awarding her 'Play of the Day' honors, and the audience's standing ovation collectively validate the legitimacy of the catch, reinforcing the 'True' rating.",
+            "reason3": "The detailed account of the ball girl's actions, including her leap to catch a line drive off Matt Kemp's bat to prevent it from reaching the stands, followed by quickly handing it to a fan, provides concrete evidence supporting the 'True' rating of the claim.",
+            "reason4": "The fact that the ball girl's catch was acclaimed as stealing the show at Petco Park further cements the 'True' rating, as it signifies the exceptional nature and public acknowledgment of the catch's authenticity."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 0
+    },
+    "relationship_with_evidence": [],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/XusX2ZMEFoM"
+        ]
+    }
+}

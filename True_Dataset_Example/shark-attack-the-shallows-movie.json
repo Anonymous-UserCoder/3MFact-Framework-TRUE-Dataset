@@ -1,0 +1,40 @@
+{
+    "url": "https://www.snopes.com/fact-check/shark-attack-the-shallows-movie/",
+    "claim": "A video shows a shark attacking a surfer.",
+    "rating": "False",
+    "content": "On 28 August 2016, the video displayed above was posted to the \"Habitat 4 Insanity\" Facebook page, purporting to show a man being viciously attacked by a huge shark:\n\nWhile the video was shared without any text explaining where and when the incident allegedly occurred, many of the video's viewers (it was viewed more than 16 million times within two days of its initial posting) assumed that it must show a real shark attack. \nHowever, this video shows not a real shark attack, but a few unattributed seconds from the movie The Shallows.  The clip can be glimpsed at the 1:34 mark in the following trailer for the movie: \n\nDirector Jaume Collett-Serra told Yahoo News that the creature was completely computer-generated:\nThis shark is all CGI. So what’s not going to work? We don’t have a shark! [Laughs] I don’t think anyone could have a real shark. You could shoot elements of a shark, but it would never do anything you wanted it to do. Sharks and alligators are these are prehistoric creatures that are still among us. I made a movie with real alligators once, and they’ll do anything they want. Other animals can be trained, but not these animals. So if you’re doing a whole movie with these creatures, you have to recreate them.\nSharks generally do not leap out of the water in order to grab surfers by the arms with their teeth; while it's not unheard of, most are bite-and-release attacks from the water, which can be either exploratory or intended to disable their prey.  However, that behavior is still relatively rare — sharks kill around ten people a year on average, compared to the 20 to 30 million sharks a year that humans kill on average.\n",
+    "original_rationales": {
+        "main_rationale": "However, this video shows not a real shark attack, but a few unattributed seconds from the movie The Shallows.",
+        "additional_rationale1": "Sharks generally do not leap out of the water in order to grab surfers by the arms with their teeth; while it's not unheard of, most are bite-and-release attacks from the water, which can be either exploratory or intended to disable their prey."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'False' rating is appropriate because the video in question, which purported to show a shark attacking a surfer, was actually a clip from a movie and not a real shark attack. The director of the movie confirmed that the shark in the video was entirely CGI and not real. Moreover, the behavior depicted in the video, such as a shark leaping out of the water to attack a surfer, is not typical of real shark behavior, further indicating the falsity of the video. Additionally, the text highlights the rarity of shark attacks on humans compared to the vast number of sharks killed annually by humans, emphasizing the misleading nature of the video.",
+        "detailed_reasons": {
+            "reason1": "The video claimed to depict a shark attacking a surfer, but it was actually a clip from the movie 'The Shallows,' as confirmed by the director of the movie. This clear discrepancy between the presented content and reality supports the 'False' rating.",
+            "reason2": "The director explicitly stated that the shark in the video was entirely computer-generated and not a real shark, providing concrete evidence that the content was fabricated rather than depicting a real-life event, justifying the 'False' rating.",
+            "reason3": "The behavior shown in the video, with a shark aggressively attacking a surfer by leaping out of the water, is described as atypical of real shark behavior. By highlighting the unrealistic nature of the depicted events, the text reinforces the 'False' rating by demonstrating the misleading portrayal of shark behavior in the video.",
+            "reason4": "The comparison made between the rarity of fatal shark attacks on humans and the significantly higher number of sharks killed by humans annually underlines the disproportion and misleading nature of the video. This comparison emphasizes the inaccuracy of the video's representation of shark attacks, aligning with the 'False' rating."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "This shark is all CGI. So what’s not going to work? We don’t have a shark! [Laughs] I don’t think anyone could have a real shark. You could shoot elements of a shark, but it would never do anything you wanted it to do. Sharks and alligators are these are prehistoric creatures that are still among us. I made a movie with real alligators once, and they’ll do anything they want. Other animals can be trained, but not these animals. So if you’re doing a whole movie with these creatures, you have to recreate them.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided. The article mentions that the shark in the video is entirely computer-generated, confirming that the video does not depict a real shark attacking a surfer as claimed. This explicit connection between the evidence and the main rationale highlights that the video in question is indeed from a movie, The Shallows, and not a real-life shark attack."
+        },
+        {
+            "reason2, evidence1": "The evidence directly supports 'reason2' from the combined claim and rationale. The director explicitly stated in the article that the shark in the video was entirely computer-generated, confirming that the content was fabricated. This aligns with the 'False' rating based on the misrepresentation in the video."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F606808192722583%2Fvideos%2Fvb.606808192722583%2F1155069977896399%2F%3Ftype%3D3&show_text=0&width=400",
+            "https://www.youtube.com/embed/2NIN2thBuZc"
+        ]
+    }
+}

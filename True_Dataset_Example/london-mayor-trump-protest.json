@@ -1,0 +1,38 @@
+{
+    "url": "https://www.snopes.com/fact-check/london-mayor-trump-protest/",
+    "claim": "The mayor of London encouraged muslims to riot during President Donald Trump's visit to the U.K",
+    "rating": "False",
+    "content": "On 6 May 2018, the web site Free Speech Time posted an article reporting that London mayor Sadiq Khan, himself a Muslim, had \"encouraged\" Muslims to riot during an upcoming visit by U.S. President Donald Trump to the UK:\n\nLondon Muslim mayor incited Islamic-based hatred against president Trump. He took every opportunity to lash out at the US president for daring to criticize Islam and to ban terrorists from entering America.\nNow he warns Trump not to come to the UK because \"peace-loving\" Muslims who represent the \"religion of peace\" will have to riot, demonstrate and protest during his visit to the UK.\nSadiq Khan himself incited hatred against the US president among British Muslims.\n\nHowever, the article provided no substantiation for its headline claim, \"Watch: London Muslim mayor encourages Muslims to riot during Trump's visit to the UK.\"  An embedded interview video excerpt (which was presumably what the headline implored readers to watch) simply captured Mayor Khan stating that \"I think there will be protests, I speak to Londoners every day of the week, and I think they will use the rights they have to express their freedom of speech.\"  \nWhen Khan was asked directly by the interviewer whether he \"endorsed\" such protests, he responded by saying, \"The key thing is this -- they must be peaceful, they must be lawful\":\n\nMayor Khan made no mention of Muslims at all, nor did anything that he said in the video or that was reported in the article text support the notion he was \"inciting\" Muslims (or anyone else) to \"riot\" in protest against President Trump.  Khan merely averred that he expected protests to take place, and that if they did, they would have to be conducted peacefully and lawfully.\nThe rest of the article was nothing more than a screed blaming Muslims for high crime rates in European cities and decrying 'Islamophobia' as a word \"created by the Muslim Brotherhood specifically to silence debate.\"  None of it even mentioned Sadiq Khan, much less documented what the article's headline and opening sentences claimed about him.",
+    "original_rationales": {
+        "main_rationale": "Mayor Khan made no mention of Muslims at all, nor did anything that he said in the video or that was reported in the article text support the notion he was \"inciting\" Muslims (or anyone else) to \"riot\" in protest against President Trump.",
+        "additional_rationale1": "When Khan was asked directly by the interviewer whether he \"endorsed\" such protests, he responded by saying, \"The key thing is this -- they must be peaceful, they must be lawful\":"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that the mayor of London encouraged Muslims to riot during President Donald Trump's visit to the U.K. is rated as 'False' based on the lack of substantiation for the alleged encouragement in the article. The article reports that the mayor, Sadiq Khan, only mentioned the expectation of peaceful protests and emphasized the need for lawful demonstrations. The headline and opening statements of the article misrepresent Khan's words by attributing actions and intentions to him that were not supported by the provided evidence.",
+        "detailed_reasons": {
+            "reason1": "The article's headline and initial claims of Khan inciting Muslims to riot lack backing within the content, as the video excerpt and text actually show Khan advocating for peaceful and lawful protests, not rioting or specific encouragement towards Muslims.",
+            "reason2": "Direct statements from Khan in the video and the reported text do not align with the assertion that he was targeting Muslims or endorsing violent behavior; instead, he focused on the right to peaceful expression and the importance of lawful demonstrations.",
+            "reason3": "The absence of any concrete connection between Khan's statements and the alleged encouragement of rioting, combined with the misrepresentation of his words in the headline, demonstrates a clear discrepancy between the claim and the actual content provided, justifying the 'False' rating."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "London Muslim mayor incited Islamic-based hatred against president Trump. He took every opportunity to lash out at the US president for daring to criticize Islam and to ban terrorists from entering America.\nNow he warns Trump not to come to the UK because \"peace-loving\" Muslims who represent the \"religion of peace\" will have to riot, demonstrate and protest during his visit to the UK.\nSadiq Khan himself incited hatred against the US president among British Muslims.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided. The article clearly states that Mayor Khan made no mention of Muslims and did not support the notion he was inciting Muslims to riot against President Trump. The evidence aligns with this, showing that the claims made about Mayor Khan encouraging Muslims to riot during Trump's visit lack substantiation."
+        },
+        {
+            "reason1, evidence1": "The evidence directly aligns with reason 1 from the fact-checking rationale. The article's content clarifies that the headline claim of the mayor encouraging Muslims to riot during Trump's visit lacks backing within the actual content. The evidence provided in the article shows that Mayor Khan was advocating for peaceful and lawful protests, not rioting or specific encouragement towards Muslims. This direct contradiction between the evidence and the initial claim supports reason 1, justifying the 'False' rating."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPestonOnSunday%2Fvideos%2F1614196275360263%2F&show_text=0&width=560"
+        ]
+    }
+}

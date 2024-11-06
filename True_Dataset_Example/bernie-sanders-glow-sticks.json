@@ -1,0 +1,51 @@
+{
+    "url": "https://www.snopes.com/fact-check/bernie-sanders-glow-sticks/",
+    "claim": "A meme offers instructions for creating harmless homemade glow sticks.",
+    "rating": "False",
+    "content": "A meme directed at Bernie Sanders supporters, purportedly offering them instructions on how to create homemade glow sticks, started circulating on social media in May 2016:\n \nThe instructions given in the above-displayed meme don't create glow sticks, however, but rather explosions. Mixing chlorine and isopropyl alcohol creates a violent chemical reaction, which (when it is confined to a sealed container) has dramatic, potentially dangerous results. A video posted by the Backyard Scientist in 2013 demonstrates this chemical reaction:\n\nAnother video from 2012 shows the result of containing this reaction inside a plastic bottle:\n\nThe exact origins of the above-displayed meme are unclear, but one of the first mentions we were able to uncover was posted to the /pol/ section of the web site 4chan in March 2016. The meme was shared again in May 2016, along with a message encouraging forum members to spread it on social media in an apparent attempt to prank Bernie Sanders supporters:\nHey guys! Let's trend this on Twitter and my FaveBook. Even though I like Hillary the mostest I still think this is a fun idea for a truce between the Democrat groups! Who's with me!?\nHehehehe\nWhile some forum members found this \"joke\" funny, others reported the meme to the FBI:\nSpreading instructions on public forums and social media sites to get people hurt is terrorism and will get you years in prison.\n",
+    "original_rationales": {
+        "main_rationale": "The instructions given in the above-displayed meme don't create glow sticks, however, but rather explosions.",
+        "additional_rationale2": "Spreading instructions on public forums and social media sites to get people hurt is terrorism and will get you years in prison."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'False' rating is supported by the fact that the meme, which offers instructions for homemade glow sticks, actually leads to dangerous explosions when the suggested chemicals are mixed. The content of the meme misleads individuals by promoting a hazardous chemical reaction disguised as a harmless DIY activity, thus posing a significant safety risk. Furthermore, the meme's origin on social media platforms with the intent to deceive Bernie Sanders supporters reflects a malicious attempt to spread misinformation and potentially cause harm, reinforcing the inappropriate and false nature of the instructions.",
+        "detailed_reasons": {
+            "reason1": "The instructions provided in the meme do not result in creating glow sticks as claimed but rather trigger explosive reactions when chlorine and isopropyl alcohol are mixed, as demonstrated in videos associated with such reactions. This key discrepancy between the promised outcome and the actual dangerous consequences solidifies the false nature of the meme's instructions.",
+            "reason2": "The deliberate dissemination of this misleading meme, originating from sources like a 4chan forum, with the specific aim to deceive individuals aligned with Bernie Sanders to engage in a harmful activity highlights the deceptive and harmful motives behind the creation and spread of the meme. The malicious intent to trick individuals into performing a hazardous experiment contributes to the deceitful nature of the meme, justifying its 'False' rating.",
+            "reason3": "The response from some individuals who recognized the danger in the meme and reported it as a potential act of terrorism to the FBI underscores the severity of the situation and the real-world implications of spreading such false information. The meme not only promotes unsafe practices but also evokes concerns regarding public safety and legal consequences, emphasizing the inappropriate and deceptive characteristics that warrant the 'False' rating."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Hey guys! Let's trend this on Twitter and my FaveBook. Even though I like Hillary the mostest I still think this is a fun idea for a truce between the Democrat groups! Who's with me!?\nHehehehe",
+            []
+        ],
+        "evidence2": [
+            "Spreading instructions on public forums and social media sites to get people hurt is terrorism and will get you years in prison.",
+            [
+                "https://www.snopes.com/uploads/2016/05/fbi-tip.jpg"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale2, evidence1": "The evidence provided directly supports the additional rationale 2. The message shared on social media encourages spreading dangerous instructions, which aligns with the rationale that spreading such harmful content can be considered an act of terrorism and lead to legal consequences."
+        },
+        {
+            "claim, evidence1": "The evidence directly supports the claim that a meme offers instructions for creating harmless homemade glow sticks. The evidence is a direct excerpt from the article describing the meme circulating on social media and encouraging users to create homemade glow sticks, which in reality led to explosive reactions instead of harmless glow sticks."
+        },
+        {
+            "additional_rationale2,evidence2": "The evidence provided is directly relevant to the additional rationale 2 which states that spreading instructions on public forums and social media sites to get people hurt is terrorism and will get you years in prison. This aligns perfectly with the evidence which explicitly mentions the act of spreading harmful instructions online as an act of terrorism punishable by imprisonment."
+        },
+        {
+            "reason3, evidence2": "The evidence directly supports reason3 from the provided rationale. The statement in the evidence about spreading instructions on public forums and social media sites to harm people being considered terrorism aligns with reason3, which highlights the severity of the situation and the real-world implications of spreading such false information. Both the evidence and reason3 emphasize the concerns regarding public safety, legal consequences, and the inappropriate and deceptive nature of the meme, solidifying its 'False' rating."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/AgWDMPfvXSg",
+            "https://www.youtube.com/embed/H13dLQnLFfI"
+        ]
+    }
+}

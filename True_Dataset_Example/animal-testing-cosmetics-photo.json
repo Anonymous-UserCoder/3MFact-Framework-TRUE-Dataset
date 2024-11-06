@@ -1,0 +1,50 @@
+{
+    "url": "https://www.snopes.com/fact-check/animal-testing-cosmetics-photo/",
+    "claim": "A photograph shows MAC Cosmetics testing its products on a group of cats.",
+    "rating": "Miscaptioned",
+    "content": "In February 2016, an image purportedly showing a group of cats undergoing cosmetic testing started circulating on Twitter. The same photograph, which is actually of a mass spaying and neutering event, has been circulating with similar claims for several years. For instance, the web site Before It's News used it to condemn several cosmetic companies in April 2013:\nThis is what you are supporting when you purchase cosmetics/beauty products that are tested on animals such as: L’Oreal, Lancôme, MAC, Estée Lauder, Cover Girl, Revlon, Maybelline, Clinique, Olay, Neutrogena, etc. Just to name a few, there are tons, tons, tons, more! Especially with all the companies that recently expanded their market to China.\nP.S. – It’s not just rabbits and mice, it’s cats and dogs too.\nWhile the image is real, it is not related to animal testing or cosmetic companies.\nThe photo was actually taken at a mass spay and neuter event at the University of Florida dubbed \"Operation Cat Nip\" in August 2011. A news report published by the Gainesville Sun at the time noted that University of Florida vet school students and veterinarians spayed or neutered nearly 700 cats (which had been rescued several weeks prior from cat hoarders) in preparation for an adoption event:\n \nHundreds of cats seized from a major High Springs hoarding case are being shuttled this week to the University of Florida veterinary college to be spayed or neutered, tested and treated in preparation for an adoption event this month.\nThe surgery is being done by about 25 UF veterinary students and a handful of veterinary residents from UF and the University of California at Davis.\n[...]\nAlachua County Animal Services, along with national rescue groups, seized 697 cats on June 7 from Haven Acres Cat Sanctuary.\nOwners Steve and Pennie Lefkowitz described the sanctuary as a no-kill facility for unwanted felines. The Humane Society of the United States described it as the largest case of cat hoarding in the nation.\nThe photo does look shocking if taken out of context, but anesthetized cats are sometimes tied to boards in order to facilitate the process of spaying and keep the animals immobilized.\nMany popular cosmetics brands do routinely test their products on animals, however; MAC was recently slammed for allowing its products to be tested on animals in China (where the practice was mandatory until June 2014). The Humane Society of the United States offers tips on finding cosmetics that are not tested on animals, and the organization is pushing to end the practice of animal testing permanently.\n",
+    "original_rationales": {
+        "main_rationale": "While the image is real, it is not related to animal testing or cosmetic companies.",
+        "additional_rationale1": "The photo was actually taken at a mass spay and neuter event at the University of Florida dubbed \"Operation Cat Nip\" in August 2011.",
+        "additional_rationale2": "The photo does look shocking if taken out of context, but anesthetized cats are sometimes tied to boards in order to facilitate the process of spaying and keep the animals immobilized."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim that a photograph shows MAC Cosmetics testing its products on a group of cats is rated as 'Miscaptioned' because the image in question, although real, is misinterpreted as cosmetic testing on cats when it actually depicts a mass spaying and neutering event involving cats at the University of Florida. The caption falsely links the image to animal testing by cosmetic companies, creating a misleading association that distorts the original context of the picture. While some cosmetic brands do conduct animal testing, the specific context of this photograph is unrelated to such practices, leading to an inaccurate caption.",
+        "detailed_reasons": {
+            "reason1": "The image showing cats tied to boards is misinterpreted as cosmetic testing when, in reality, it captures the cats undergoing spaying and neutering at a mass event, highlighting a significant discrepancy between the actual purpose of the photo and the claim surrounding it.",
+            "reason2": "The text explains that while cosmetic companies like MAC have faced criticism for animal testing practices, the image is erroneously linked to this issue, misrepresenting the event at the University of Florida as a scene of cosmetic product testing on cats, thereby warranting the 'Miscaptioned' rating.",
+            "reason3": "By providing the accurate background of the photograph, where rescued cats were prepared for adoption through spaying and neutering procedures, the article refutes the claim's association of cosmetic testing on animals, demonstrating a clear misinterpretation or misrepresentation of the image in circulation."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "This is what you are supporting when you purchase cosmetics/beauty products that are tested on animals such as: L’Oreal, Lancôme, MAC, Estée Lauder, Cover Girl, Revlon, Maybelline, Clinique, Olay, Neutrogena, etc. Just to name a few, there are tons, tons, tons, more! Especially with all the companies that recently expanded their market to China.\nP.S. – It’s not just rabbits and mice, it’s cats and dogs too.",
+            []
+        ],
+        "evidence2": [
+            "Hundreds of cats seized from a major High Springs hoarding case are being shuttled this week to the University of Florida veterinary college to be spayed or neutered, tested and treated in preparation for an adoption event this month.\nThe surgery is being done by about 25 UF veterinary students and a handful of veterinary residents from UF and the University of California at Davis.\n[...]\nAlachua County Animal Services, along with national rescue groups, seized 697 cats on June 7 from Haven Acres Cat Sanctuary.\nOwners Steve and Pennie Lefkowitz described the sanctuary as a no-kill facility for unwanted felines. The Humane Society of the United States described it as the largest case of cat hoarding in the nation.",
+            [
+                "https://www.snopes.com/uploads/2016/02/gainsville-sun.png"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale1, evidence1": "The evidence directly supports the additional rationale that explains the context of the photograph showing cats being involved in animal testing at MAC Cosmetics. The evidence mentions that companies like MAC do test their products on animals, including cats and dogs, which aligns with the rationale that the photo was actually taken at a mass spaying and neutering event involving cats. This clear connection indicates that the evidence is relevant to this particular rationale."
+        },
+        {
+            "reason3, evidence1": "The evidence directly supports reason3 from the 'Combined Claim and Rationale' by providing information on cosmetic companies like MAC being criticized for animal testing practices, mentioning L’Oreal, Lancôme, MAC, and other brands that test on animals. This aligns with reason3, which states that the article refutes the claim's association of cosmetic testing on animals by providing accurate background information about the photograph showing rescued cats undergoing spaying and neutering procedures."
+        },
+        {
+            "additional_rationale1, evidence2": "The evidence directly supports the additional rationale1 that the photo was taken at a mass spay and neuter event at the University of Florida dubbed 'Operation Cat Nip' in August 2011. The article mentions a similar event where hundreds of cats were seized and taken to the University of Florida veterinary college to be spayed or neutered, aligning closely with the explanation provided in the rationale.",
+            "additional_rationale2, evidence2": "The evidence directly supports the additional rationale2 that states the photo, although looking shocking out of context, involves anesthetized cats tied to boards for spaying purposes. The evidence describes how cats were being prepared for adoption after being rescued in a cat hoarding case, which aligns with the rationale's mention of how cats are sometimes tied to boards to facilitate the spaying process."
+        },
+        {
+            "best_match_rationale_key, evidence2": "The evidence directly supports 'reason3'. The content of the evidence corresponds to the situation described in 'reason3', where rescued cats were prepared for adoption through spaying and neutering procedures, refuting the claim's association of cosmetic testing on animals."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

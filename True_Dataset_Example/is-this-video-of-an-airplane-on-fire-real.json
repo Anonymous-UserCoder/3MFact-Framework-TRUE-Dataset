@@ -1,0 +1,49 @@
+{
+    "url": "https://www.snopes.com/fact-check/is-this-video-of-an-airplane-on-fire-real/",
+    "claim": "A video shows an airplane on fire in January 2018.",
+    "rating": "Outdated",
+    "content": "On 25 January 2018, the Newsroom Facebook page posted a \"live\" video of an airplane on fire:\n\nThe Newsroom Facebook page didn't provide any context for the video (it was merely captioned \"Airplane on fire!\"), and since this was posted as a \"live\" video, many viewers assumed that they were witnessing a current event. \nThis video (which you can view below) is real -- but it is not from January 2018. Rather, it was filmed in October 2016 at at O'Hare International Airport in Chicago and shows an engine fire on a Boeing 767:\nDramatic new video taken from an airport tower camera shows just how close an American Airlines plane was to disaster after the engine caught fire just before takeoff at O'Hare International Airport in 2016.\nThe pilots made a split second decision to abort takeoff, slowing down the aircraft after a right engine failure. The tower video shows what unfolded in the moments before passengers scrambled to get off the plane. \nAlthough there are several videos of this airplane fire, it appears that the Newsroom Facebook page swiped the footage from Instagram user @C1arkKent who posted the clip on 28 October 2016 with the following message: \"Tell me why the engine on the plane I was just on blew up on takeoff!?! Thank God I got off. Blessed man. So blessed. Scariest shit ever. Special thanks to the pilots! #Blessed #AmericanAirlines #AA\":\nA post shared by Christian (@c1arkkent) on Oct 28, 2016 at 12:53pm PDT\n",
+    "original_rationales": {
+        "main_rationale": "This video (which you can view below) is real -- but it is not from January 2018. Rather, it was filmed in October 2016 at at O'Hare International Airport in Chicago and shows an engine fire on a Boeing 767:",
+        "additional_rationale1": "The Newsroom Facebook page didn't provide any context for the video (it was merely captioned \"Airplane on fire!\"), and since this was posted as a \"live\" video, many viewers assumed that they were witnessing a current event.",
+        "additional_rationale2": "Although there are several videos of this airplane fire, it appears that the Newsroom Facebook page swiped the footage from Instagram user @C1arkKent who posted the clip on 28 October 2016 with the following message: \"Tell me why the engine on the plane I was just on blew up on takeoff!?! Thank God I got off. Blessed man. So blessed. Scariest shit ever. Special thanks to the pilots! #Blessed #AmericanAirlines #AA\":"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim about a video showing an airplane on fire in January 2018 is rated as 'Outdated' due to the verification that the video was actually filmed in October 2016 at O'Hare International Airport, not in January 2018. The lack of context provided by the Newsroom Facebook page, coupled with the video being shared as a 'live' event, misled viewers into thinking it was a recent incident. Additionally, the footage was identified as originating from an Instagram post in 2016, further confirming its outdated nature.",
+        "detailed_reasons": {
+            "reason1": "The video of the airplane on fire, shared on the Newsroom Facebook page as 'live,' was found to be recorded in October 2016 at O'Hare International Airport in Chicago, completely contradicting the claim of it being from January 2018, thus justifying the 'Outdated' rating.",
+            "reason2": "The absence of explanatory context accompanying the video caption heightened the misconception among viewers, leading them to believe it was a current event in January 2018 when, in reality, it was an older incident from 2016, supporting the rating of 'Outdated.'",
+            "reason3": "The identification of the original Instagram post in 2016 by user @C1arkKent, containing the same footage with a detailed account of the engine fire incident, solidifies the outdated nature of the video shared on Facebook as it predates the claimed timeline, aligning with the rating choice."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Dramatic new video taken from an airport tower camera shows just how close an American Airlines plane was to disaster after the engine caught fire just before takeoff at O'Hare International Airport in 2016.\nThe pilots made a split second decision to abort takeoff, slowing down the aircraft after a right engine failure. The tower video shows what unfolded in the moments before passengers scrambled to get off the plane.",
+            []
+        ],
+        "evidence2": [
+            "A post shared by Christian (@c1arkkent) on Oct 28, 2016 at 12:53pm PDT",
+            [
+                "https://www.instagram.com/p/BMHnmE0j5AD/"
+            ]
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided, which states that the video is real but not from January 2018 as claimed. The evidence describes a video taken in 2016 at O'Hare International Airport, which matches the main rationale's explanation of the origins of the footage."
+        },
+        {
+            "reason3, evidence1": "The evidence directly supports 'reason3' by confirming that the video shared on Facebook, showing an airplane on fire at O'Hare International Airport in 2016, aligns with the original Instagram post by user @C1arkKent from 2016. This connection solidifies the outdated nature of the video and supports the claim's rationale for the 'Outdated' rating."
+        },
+        {
+            "main_rationale,evidence2": "The evidence directly supports the main rationale provided for the claim. The post shared by Christian (@c1arkkent) on Oct 28, 2016, aligns perfectly with the main rationale that states the video of the airplane on fire was filmed in October 2016 at O'Hare International Airport in Chicago. This direct match clearly indicates that the evidence supports the fact that the video is outdated."
+        },
+        {
+            "reason3, evidence2": "The evidence, the post by Christian shared on Instagram on October 28, 2016, directly supports reason3 from the fact-checking rationale. The Instagram post by @C1arkKent provides a detailed account of the engine fire incident in 2016, aligning with the fact that the airplane fire video shared on Facebook predates the claimed timeline of January 2018, which solidifies the 'Outdated' rating."
+        }
+    ],
+    "other": {
+        "iframe_video_links": []
+    }
+}

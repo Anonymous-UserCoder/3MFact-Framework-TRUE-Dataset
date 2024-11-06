@@ -1,0 +1,40 @@
+{
+    "url": "https://www.snopes.com/fact-check/real-trailer-forrest-gump-2/",
+    "claim": "Paramount, Amblin, and the Bubba Gump Shrimp Company released a trailer for \"Forrest Gump 2: Forever Jenny.\"",
+    "rating": "False",
+    "content": "Announcements of classic movie remakes, reboots, and sequels are commonplace in the 2010s, so film fans who came across a video in July 2018 purporting to be a trailer for Forrest Gump 2: Forever Jenny they were prone to believe that it was real:\n \nThis is not an official movie trailer for Forrest Gump 2. As of this writing, no such sequel is in the works. \nThe video is a parody created by YouTuber VJ4rawr2 in May 2018, using clips from various movies such as A Hologram for the King, Inferno, and the original Forrest Gump. Perhaps the most obvious appropriated scene in the parody trailer comes from a non-Tom Hanks movie: Titanic.\nAt the 1:03 mark, a large ship appears with a banner reading \"Jenny\" draped across its stern. Fans of the 1997 James Cameron film will recognize the ship as the ill-fated Titanic departing the dock. Below is a comparison of the two clips. The image from Cameron's Titanic is on top, the Forrest Gump parody version is on the bottom:\n\nVJ4rawr2 explains in a description of the video on YouTube that the Forrest Gump 2: Forever Jenny trailer is a spoof, and in no way connected to an official sequel to the famous Tom Hanks movie:\nYes, this is a parody trailer. That means it's fake. Forrest Gump was one of the most memorable films of all time. There was talk of a sequel in the early 2000's but that never panned out.\nNor was this the first parody trailer created by VJ4awr2. His YouTube page also contains spoof trailers for sequels to movies such as Titanic, Coco, Inside Out, and a live action Aladdin:\n\nWinston Groom, the author of the original Forrest Gump novel, did write a follow-up called Gump & Co. in 2005. There were multiple attempts to turn the book into a movie, but these projects never gained much traction. ",
+    "original_rationales": {
+        "main_rationale": "This is not an official movie trailer for Forrest Gump 2. As of this writing, no such sequel is in the works.",
+        "additional_rationale1": "VJ4rawr2 explains in a description of the video on YouTube that the Forrest Gump 2: Forever Jenny trailer is a spoof, and in no way connected to an official sequel to the famous Tom Hanks movie:",
+        "additional_rationale2": "Nor was this the first parody trailer created by VJ4awr2. His YouTube page also contains spoof trailers for sequels to movies such as Titanic, Coco, Inside Out, and a live action Aladdin:"
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'False' rating for the claim that Paramount, Amblin, and the Bubba Gump Shrimp Company released a trailer for 'Forrest Gump 2: Forever Jenny' is supported by clear evidence from the text. The paragraphs elucidate that the video in question is a parody created by VJ4rawr2, not an official trailer. The YouTuber explicitly states that it is fake and unrelated to any legitimate sequel. Additionally, references to previous parody trailers by VJ4awr2 and the unsuccessful attempts to turn the Gump & Co. novel into a movie further solidify the claim's inaccuracy.",
+        "detailed_reasons": {
+            "reason1": "The video in question, purported to be a trailer for 'Forrest Gump 2: Forever Jenny,' is identified as a parody created by VJ4rawr2, explicitly stated to be fake and having no official connection to a sequel. This clear distinction between the parody and an authentic trailer supports the 'False' rating.",
+            "reason2": "The mention of VJ4awr2's other parody trailers for movies like Titanic, Coco, and Inside Out, alongside the statement that there were talks of a sequel to Forrest Gump but they never materialized, provides a broader context that reinforces the fabricated nature of the video in question, aligning with the 'False' rating.",
+            "reason3": "The information regarding author Winston Groom's follow-up novel, Gump & Co., and the failed attempts to bring it to the big screen emphasize the absence of a legitimate sequel to Forrest Gump, underscoring the lack of any genuine basis for the claim about 'Forrest Gump 2: Forever Jenny.' These details contribute to the overall rationale supporting the 'False' rating.",
+            "reason4": "Details such as the scenes from other movies used in the parody trailer, like Titanic, and the acknowledgment that Forrest Gump was indeed a memorable film help to solidify the rating of 'False' by presenting concrete evidence that the video was not an official production or connected to any real sequel."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "Yes, this is a parody trailer. That means it's fake. Forrest Gump was one of the most memorable films of all time. There was talk of a sequel in the early 2000's but that never panned out.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale provided for the claim. The statement 'Yes, this is a parody trailer. That means it's fake. Forrest Gump was one of the most memorable films of all time. There was talk of a sequel in the early 2000's but that never panned out.' aligns perfectly with the main rationale which states 'This is not an official movie trailer for Forrest Gump 2. As of this writing, no such sequel is in the works.' Both the evidence and the main rationale emphasize that the trailer is a parody and not an official one for a sequel."
+        },
+        {
+            "reason1, evidence1": "The evidence provided directly supports Reason 1. The claim mentions that the trailer for 'Forrest Gump 2: Forever Jenny' is fake, and the evidence states that the video is a parody, confirming that it is not an authentic trailer. This direct alignment between the evidence and Reason 1 supports the 'False' rating, as the evidence clearly corroborates the distinction between the parody and a genuine trailer."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/HHUVfKZcuzQ"
+        ]
+    }
+}

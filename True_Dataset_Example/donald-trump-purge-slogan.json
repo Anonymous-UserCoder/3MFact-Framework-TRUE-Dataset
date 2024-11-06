@@ -1,0 +1,49 @@
+{
+    "url": "https://www.snopes.com/fact-check/donald-trump-purge-slogan/",
+    "claim": "President Donald Trump's proposed 2020 re-election campaign slogan (\"Keep America Great\") was used in a 'Purge' film.",
+    "rating": "True",
+    "content": "On 18 January 2017, the Washington Post's profile of Donald Trump and his campaign slogan \"Make America Great Again\" included a portion in which Trump mentioned that he planned to use \"Keep America Great\" as a campaign slogan for a 2020 re-election bid:\nHalfway through his interview with The Washington Post, Trump shared a bit of news: He already has decided on his slogan for a reelection bid in 2020.\n“Are you ready?” he said. “ ‘Keep America Great,’ exclamation point.”\n“Get me my lawyer!” the president-elect shouted.\nTwo minutes later, one arrived.\n“Will you trademark and register, if you would, if you like it — I think I like it, right? Do this: ‘Keep America Great,’ with an exclamation point. With and without an exclamation. ‘Keep America Great,’ ” Trump said.\n“Got it,” the lawyer replied.\nThat bit of business out of the way, Trump returned to the interview.\nMany social media users who spotted this tidbit pointed out that the phrase had already been prominently used back in 2016 as part of the marketing for The Purge: Election Year, an installment of the dystopian Purge film series.\nBack on 25 February 2016, CinemaBlend reported on the then-upcoming film and noted its obvious nod to Donald Trump's presidential campaign:\nYou’d also have to be blind to not see how the team behind The Purge: Election Year is taking shots at Donald Trump’s political campaign. Trump’s motto through his campaign has been \"make America great again\", even putting it on snazzy baseball caps. And now the message of this fake pro-purge spot is \"keep America great\". While Donald Trump will presumably not pass a legalized murder act if elected President, surely the team behind The Purge must not think too highly of the Republican frontrunner since they’ve created such a similar slogan.\nThe slogan was visible at the end of a trailer for the film published on YouTube on 25 February 2016:\n\nIn the context of the original Washington Post article, it appeared Trump's idea to use \"Keep America Great\" was an in-the-moment inspiration without his awareness of its associations with a recent horror film release, making the slogan an unlikely choice should President Trump opt to seek re-election in 2020.",
+    "original_rationales": {
+        "main_rationale": "Many social media users who spotted this tidbit pointed out that the phrase had already been prominently used back in 2016 as part of the marketing for The Purge: Election Year, an installment of the dystopian Purge film series.",
+        "additional_rationale1": "In the context of the original Washington Post article, it appeared Trump's idea to use \"Keep America Great\" was an in-the-moment inspiration without his awareness of its associations with a recent horror film release, making the slogan an unlikely choice should President Trump opt to seek re-election in 2020."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The 'True' rating is supported by the fact that the Washington Post article documented Trump's spontaneous announcement of 'Keep America Great' as his 2020 re-election slogan, without previous knowledge of its use in 'The Purge' film. This demonstrates that the slogan was not intentionally taken from the movie, refuting any claims of deliberate association.",
+        "detailed_reasons": {
+            "reason1": "The Washington Post article explicitly describes Trump's impromptu revelation of 'Keep America Great' as his upcoming campaign slogan during an interview, indicating the slogan was not premeditated or borrowed consciously from 'The Purge'.",
+            "reason2": "The text suggests that Trump's immediate instruction to trademark the slogan and variations of it, with the lawyer responding promptly, reflects a spontaneous decision rather than a calculated attempt to adopt the phrase from the movie.",
+            "reason3": "Additionally, the article notes that many social media users only later pointed out the similarity to 'The Purge' film, implying that Trump's choice of the slogan was not influenced by its previous use in the movie but instead emerged independently.",
+            "reason4": "Moreover, the article highlights that the slogan's appearance in the film trailer predated Trump's public declaration of it, further supporting the notion that Trump's selection was not derived from or inspired by the movie's marketing."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 2,
+        "evidence1": [
+            "Halfway through his interview with The Washington Post, Trump shared a bit of news: He already has decided on his slogan for a reelection bid in 2020.\n“Are you ready?” he said. “ ‘Keep America Great,’ exclamation point.”\n“Get me my lawyer!” the president-elect shouted.\nTwo minutes later, one arrived.\n“Will you trademark and register, if you would, if you like it — I think I like it, right? Do this: ‘Keep America Great,’ with an exclamation point. With and without an exclamation. ‘Keep America Great,’ ” Trump said.\n“Got it,” the lawyer replied.\nThat bit of business out of the way, Trump returned to the interview.",
+            []
+        ],
+        "evidence2": [
+            "You’d also have to be blind to not see how the team behind The Purge: Election Year is taking shots at Donald Trump’s political campaign. Trump’s motto through his campaign has been \"make America great again\", even putting it on snazzy baseball caps. And now the message of this fake pro-purge spot is \"keep America great\". While Donald Trump will presumably not pass a legalized murder act if elected President, surely the team behind The Purge must not think too highly of the Republican frontrunner since they’ve created such a similar slogan.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "main_rationale, evidence1": "The evidence directly supports the main rationale that President Donald Trump's proposed 2020 re-election campaign slogan 'Keep America Great' was discussed during an interview with The Washington Post. The conversation highlights Trump's choice of the slogan, 'Keep America Great,' for his potential reelection bid, aligning with the claim made in the fact-checking article."
+        },
+        {
+            "reason1, evidence1": "The evidence directly supports the first rationale by confirming that Trump's revelation of 'Keep America Great' as his upcoming campaign slogan during the interview with The Washington Post was spontaneous and unplanned. The article describes how Trump immediately instructed his lawyer to trademark the slogan, indicating an impromptu decision, rather than a calculated attempt to borrow from 'The Purge' film."
+        },
+        {
+            "main_rationale, evidence2": "The evidence directly supports the main rationale by confirming that the phrase 'Keep America Great' was used in a 'Purge' film, aligning with the point made by social media users that the slogan had already been prominently employed in The Purge: Election Year in 2016. This direct connection between the evidence and the main rationale validates the claim that President Donald Trump's proposed 2020 re-election campaign slogan was indeed featured in a 'Purge' film."
+        },
+        {
+            "reason3, evidence2": "The evidence directly supports 'reason3' by showing that social media users were the ones to connect Trump's slogan with 'The Purge' film after the slogan was revealed, indicating that Trump's choice of the slogan was not influenced by the movie."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/apN1ptgguzg"
+        ]
+    }
+}

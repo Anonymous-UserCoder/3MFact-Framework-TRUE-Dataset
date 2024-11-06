@@ -1,0 +1,40 @@
+{
+    "url": "https://www.snopes.com/fact-check/donald-trump-wealthy-great-quote/",
+    "claim": "Donald Trump said, \"you have to be wealthy in order to be great.\"",
+    "rating": "Mostly True",
+    "content": "Donald Trump said that you \"have to be wealthy in order to be great\" during a speech in North Dakota on 26 May 2016. \nDonald Trump was talking about making America great again and was not referring to individual greatness. \nOn 26 May 2016, a sound bite from a speech Donald Trump gave in North Dakota was inserted into a video, then made its way around the internet with the hashtag #GreaterThanTrump.  The sound bite was a quote from Trump saying, \"You have to be wealthy in order to be great\":\n \nWhile it's true that Donald Trump said this, the video does not feature the Republican presidential candidate's full quote, which turned up in a campaign speech in which he was talking about (among other things) the importance of keeping the United States wealthy:\n \nThere's one more thing we have to do to make America wealthy again. And you have to be wealthy to be great, I'm sorry to say it.\nTrump said that, as President, he would add wealth to the country, and pledged to end what he called a \"stealth tax\" on energy.\n",
+    "original_rationales": {
+        "main_rationale": "Trump said that, as President, he would add wealth to the country, and pledged to end what he called a \"stealth tax\" on energy.",
+        "additional_rationale1": "While it's true that Donald Trump said this, the video does not feature the Republican presidential candidate's full quote, which turned up in a campaign speech in which he was talking about (among other things) the importance of keeping the United States wealthy:",
+        "additional_rationale2": "There's one more thing we have to do to make America wealthy again. And you have to be wealthy to be great, I'm sorry to say it."
+    },
+    "summary_rationales": {
+        "synthesized_rationale": "The claim was rated 'Mostly True' because while Donald Trump did say 'you have to be wealthy in order to be great,' the full context of his statement reveals that he was discussing making America wealthy again and the importance of economic prosperity to achieve greatness, not implying that individual wealth equates to personal greatness. The rating takes into account the nuances of Trump's statement and how it related to his broader message on national wealth and addressing economic issues.",
+        "detailed_reasons": {
+            "reason1": "Donald Trump did mention 'you have to be wealthy in order to be great,' but the additional context provided in the article clarifies that he was connecting wealth to national prosperity, not implying a direct correlation between personal wealth and individual greatness. This evaluation considers Trump's overall message in the speech and the intent behind his words, leading to a nuanced understanding of his statement.",
+            "reason2": "The discussion of 'making America wealthy again' and addressing economic concerns like the 'stealth tax' on energy, which Trump vowed to eliminate, further supports the 'Mostly True' rating. The connection between wealth, national economic policies, and Trump's goal as President to enhance the country's financial standing aligns with the broader context of his statement and his policy objectives.",
+            "reason3": "The mention that the video with the partial quote circulated on social media under the hashtag #GreaterThanTrump highlights the importance of considering the wider dissemination and interpretation of Trump's words. Despite the partial nature of the clip, the surrounding details and explanations in the article help to elucidate the true meaning behind Trump's statement, supporting the 'Mostly True' rating when viewed in its entirety."
+        }
+    },
+    "evidences": {
+        "num_of_evidence": 1,
+        "evidence1": [
+            "There's one more thing we have to do to make America wealthy again. And you have to be wealthy to be great, I'm sorry to say it.",
+            []
+        ]
+    },
+    "relationship_with_evidence": [
+        {
+            "additional_rationale2, evidence1": "The evidence directly supports the additional_rationale2. In the evidence, Donald Trump is quoted saying, 'There's one more thing we have to do to make America wealthy again. And you have to be wealthy to be great, I'm sorry to say it.' This aligns perfectly with the additional_rationale2, which highlights that Trump mentioned the need to be wealthy to be great. Thus, the evidence directly corresponds to this particular rationale."
+        },
+        {
+            "reason2, evidence1": "The evidence directly supports reason2 from the rationale associated with the claim. In the evidence, Donald Trump talks about making America wealthy again and how being wealthy is linked to national prosperity, aligning with the broader context presented in reason2 where it discusses Trump's goal to enhance the country's financial standing through economic policies."
+        }
+    ],
+    "other": {
+        "iframe_video_links": [
+            "https://www.youtube.com/embed/SbbtAOosC7g",
+            "https://www.youtube.com/embed/5jTJUZLPmXM"
+        ]
+    }
+}
